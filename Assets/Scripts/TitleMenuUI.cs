@@ -16,7 +16,7 @@ public class TitleMenuUI : MonoBehaviour
 {
     public static bool IsOpen { get; private set; }
 
-    private const string GameTitle = "CPE477";
+    private const string GameTitle = "CPE447";
 
     private static bool _hooked;
 
@@ -113,6 +113,7 @@ public class TitleMenuUI : MonoBehaviour
     private static readonly Color Cream = new Color(0.96f, 0.92f, 0.82f, 1f);      // สีกระดาษเก่า
     private static readonly Color Muted = new Color(0.70f, 0.64f, 0.54f, 1f);
     private Font _serif;
+    private Font _titleSerif;
 
     private void Start()
     {
@@ -124,6 +125,9 @@ public class TitleMenuUI : MonoBehaviour
         if (_mono == null) _mono = _thaiBold;
         _serif = Font.CreateDynamicFontFromOSFont(new[] { "Georgia", "Times New Roman", "Cambria" }, 32);
         if (_serif == null) _serif = _thaiBold;
+        // Georgia ใช้ตัวเลขแบบ old-style (4, 7 ห้อยลงใต้บรรทัด) ชื่อเกมที่มีตัวเลขจึงใช้ฟอนต์ที่ตัวเลขสูงเท่าตัวพิมพ์ใหญ่
+        _titleSerif = Font.CreateDynamicFontFromOSFont(new[] { "Times New Roman", "Cambria", "Georgia" }, 32);
+        if (_titleSerif == null) _titleSerif = _serif;
 
         IsOpen = true;
         BuildUI();
@@ -555,7 +559,7 @@ public class TitleMenuUI : MonoBehaviour
         const float left = -560f;
         MakeText("Kicker", _root, "SCOTLAND YARD   ·   CASE FILE 1888/JR", _mono, 20, new Color(Brass.r, Brass.g, Brass.b, 0.85f), TextAnchor.MiddleLeft,
             new Vector2(left, 268f), new Vector2(900f, 28f), new Vector2(0f, 0.5f));
-        var title = MakeText("Title", _root, SpacedTitle(GameTitle), _serif, 120, Cream, TextAnchor.MiddleLeft,
+        var title = MakeText("Title", _root, SpacedTitle(GameTitle), _titleSerif, 120, Cream, TextAnchor.MiddleLeft,
             new Vector2(left - 6f, 184f), new Vector2(1000f, 150f), new Vector2(0f, 0.5f));
         title.fontStyle = FontStyle.Bold;
         var titleShadow = title.gameObject.AddComponent<Shadow>();

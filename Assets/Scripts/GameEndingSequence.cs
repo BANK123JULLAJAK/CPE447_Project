@@ -545,7 +545,7 @@ public class GameEndingSequence : MonoBehaviour
         }
 
         Add("SCOTLAND YARD  ·  CASE FILE 1888/JR", _mono, 22, new Color(Brass.r, Brass.g, Brass.b, 0.9f), 18f);
-        Add("CPE477", _thaiBold, 96, Cream, 6f);
+        Add("CPE447", _thaiBold, 96, Cream, 6f);
         Add("คดีปริศนาแห่งไวท์ชาเปล", _thaiBold, 34, new Color(0.82f, 0.74f, 0.6f, 1f), 40f);
         Rule(360f, 120f);
 
@@ -651,7 +651,7 @@ public class GameEndingSequence : MonoBehaviour
         const float left = -820f;
         MakeText("Kicker", menu, "SCOTLAND YARD  ·  CASE FILE 1888/JR", _mono, 22, new Color(Brass.r, Brass.g, Brass.b, 0.9f), TextAnchor.MiddleLeft,
             new Vector2(left, 300f), new Vector2(800f, 30f), new Vector2(0f, 0.5f));
-        MakeText("Title", menu, "CPE477", _thaiBold, 112, Cream, TextAnchor.MiddleLeft,
+        MakeText("Title", menu, "CPE447", _thaiBold, 112, Cream, TextAnchor.MiddleLeft,
             new Vector2(left - 6f, 214f), new Vector2(900f, 140f), new Vector2(0f, 0.5f));
         MakeText("Sub", menu, "คดีปริศนาแห่งไวท์ชาเปล", _thaiBold, 34, new Color(0.82f, 0.74f, 0.6f, 1f), TextAnchor.MiddleLeft,
             new Vector2(left, 128f), new Vector2(800f, 46f), new Vector2(0f, 0.5f));
