@@ -1,0 +1,62 @@
+# ===== Unity generated (สร้างใหม่ได้เองตอนเปิดโปรเจกต์) =====
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+/ProfilerCaptures/
+/Captures/
+/Assets/Screenshots/
+/Assets/Screenshots.meta
+
+# ===== Build output และไฟล์รันได้ (GitHub บล็อก / ไฟล์ใหญ่) =====
+/[Bb]uild/
+/[Bb]uilds/
+/[Bb]uild[s]_*/
+*.exe
+*.msi
+*.apk
+*.aab
+*.unitypackage
+*.app
+*_BurstDebugInformation_DoNotShip/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+UnityPlayer.dll
+UnityCrashHandler*.dll
+crashlytics-build.properties
+
+# ===== ไฟล์บีบอัด =====
+*.zip
+*.rar
+*.7z
+
+# ===== IDE / ไฟล์ที่ Unity สร้าง solution ให้เอง =====
+.vs/
+.vscode/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+sysinfo.txt
+mono_crash.*
+
+# ===== ระบบปฏิบัติการ =====
+.DS_Store
+Thumbs.db
+desktop.ini

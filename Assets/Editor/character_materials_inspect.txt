@@ -1,0 +1,207 @@
+=== INSPECT CHARACTER MATERIALS IN SCENE ===
+Renderer: Grounded_Contact_Shadow (Parent: PlayerArmature, Root: NestedParentArmature_Newman)
+  [0] Mat: 'M_Newman_ContactShadow', Shader: 'lilToon', AssetPath: 'Assets/3D_Model/VAM/CH1/M_Newman_ContactShadow.mat'
+      Tex '_MainTex': T_Newman_ContactShadow
+      Tex '_BaseMap': T_Newman_ContactShadow
+      Tex '_ShadowColorTex': T_Newman_ContactShadow
+Renderer: Armature_Mesh (Parent: Geometry, Root: NestedParentArmature_Newman)
+  [0] Mat: 'M_Armature_Body', Shader: 'Universal Render Pipeline/Lit', AssetPath: 'Assets/Starter Assets/Runtime/ThirdPersonController/Character/Materials/M_Armature_Body.mat'
+      Tex '_MainTex': Armature_Body_AlbedoTransparency
+      Tex '_BumpMap': Armature_Body_Normal
+      Tex '_BaseMap': Armature_Body_AlbedoTransparency
+      Tex '_MetallicGlossMap': Armature_Body_MetallicSmoothness
+  [1] Mat: 'M_Armature_Arms', Shader: 'Universal Render Pipeline/Lit', AssetPath: 'Assets/Starter Assets/Runtime/ThirdPersonController/Character/Materials/M_Armature_Arms.mat'
+      Tex '_MainTex': Armature_Arms_AlbedoTransparency
+      Tex '_BumpMap': Armature_Arms_Normal
+      Tex '_BaseMap': Armature_Arms_AlbedoTransparency
+      Tex '_MetallicGlossMap': Armature_Arms_MetallicSmoothness
+  [2] Mat: 'M_Armature_Legs', Shader: 'Universal Render Pipeline/Lit', AssetPath: 'Assets/Starter Assets/Runtime/ThirdPersonController/Character/Materials/M_Armature_Legs.mat'
+      Tex '_MainTex': Armature_Legs_AlbedoTransparency
+      Tex '_BumpMap': Armature_Legs_Normal
+      Tex '_BaseMap': Armature_Legs_AlbedoTransparency
+      Tex '_MetallicGlossMap': Armature_Legs_MetallicSmoothness
+Renderer: Body (Parent: Newman_Model, Root: NestedParentArmature_Newman)
+  [0] Mat: 'N00_000_00_Body_00_SKIN (Instance)', Shader: 'lilToon', AssetPath: 'Assets/3D_Model/VAM/CH1/CH2_Newman.Materials/N00_000_00_Body_00_SKIN (Instance).asset'
+      Tex '_MainTex': _10
+      Tex '_BaseMap': _10
+      Tex '_ShadowColorTex': _10
+  [1] Mat: 'N00_001_01_Bottoms_01_CLOTH (Instance)', Shader: 'lilToon', AssetPath: 'Assets/3D_Model/VAM/CH1/CH2_Newman.Materials/N00_001_01_Bottoms_01_CLOTH (Instance).asset'
+      Tex '_MainTex': _12
+      Tex '_BaseMap': _12
+      Tex '_ShadowColorTex': _12
+  [2] Mat: 'N00_008_01_Shoes_01_CLOTH (Instance)', Shader: 'lilToon', AssetPath: 'Assets/3D_Model/VAM/CH1/CH2_Newman.Materials/N00_008_01_Shoes_01_CLOTH (Instance).asset'
+      Tex '_MainTex': _13
+      Tex '_BaseMap': _13
+      Tex '_ShadowColorTex': _13
+  [3] Mat: 'N00_007_02_Tops_01_CLOTH_01 (Instance)', Shader: 'lilToon', AssetPath: 'Assets/3D_Model/VAM/CH1/CH2_Newman.Materials/N00_007_02_Tops_01_CLOTH_01 (Instance).asset'
+      Tex '_MainTex': _14
+      Tex '_BaseMap': _14
+      Tex '_ShadowColorTex': _14
+  [4] Mat: 'N00_000_00_HairBack_00_HAIR (Instance)', Shader: 'Hidden/lilToonCutout', AssetPath: 'Assets/3D_Model/VAM/CH1/CH2_Newman.Materials/N00_000_00_HairBack_00_HAIR (Instance).asset'
+      Tex '_MainTex': _15
+      Tex '_BaseMap': _15
+      Tex '_ShadowColorTex': _15
+  [5] Mat: 'N00_007_02_Tops_01_CLOTH_02 (Instance)', Shader: 'lilToon', AssetPath: 'Assets/3D_Model/VAM/CH1/CH2_Newman.Materials/N00_007_02_Tops_01_CLOTH_02 (Instance).asset'
+      Tex '_MainTex': _16
+      Tex '_BaseMap': _16
+      Tex '_ShadowColorTex': _16
+Renderer: Face (Parent: Theater_Jack_The_Ripper, Root: Theater_Jack_The_Ripper)
+  [0] Mat: 'N00_000_00_FaceMouth_00_FACE_URP', Shader: 'Hidden/lilToonCutout', AssetPath: 'Assets/3D_Model/VAM/CH2/Materials_URP/N00_000_00_FaceMouth_00_FACE_URP.mat'
+      Tex '_MainTex': _01
+      Tex '_BaseMap': _01
+      Tex '_ShadowColorTex': _01
+  [1] Mat: 'N00_000_00_EyeIris_00_EYE_URP', Shader: 'Hidden/lilToonTransparent', AssetPath: 'Assets/3D_Model/VAM/CH2/Materials_URP/N00_000_00_EyeIris_00_EYE_URP.mat'
+      Tex '_MainTex': _02
+      Tex '_BaseMap': _02
+      Tex '_ShadowColorTex': _02
+  [2] Mat: 'N00_000_00_EyeHighlight_00_EYE_URP', Shader: 'Hidden/lilToonTransparent', AssetPath: 'Assets/3D_Model/VAM/CH2/Materials_URP/N00_000_00_EyeHighlight_00_EYE_URP.mat'
+      Tex '_MainTex': _03
+      Tex '_BaseMap': _03
+      Tex '_ShadowColorTex': _03
+  [3] Mat: 'N00_000_00_Face_00_SKIN_URP', Shader: 'lilToon', AssetPath: 'Assets/3D_Model/VAM/CH2/Materials_URP/N00_000_00_Face_00_SKIN_URP.mat'
+      Tex '_MainTex': _04
+      Tex '_BaseMap': _04
+      Tex '_ShadowColorTex': _04
+  [4] Mat: 'N00_000_00_EyeWhite_00_EYE_URP', Shader: 'lilToon', AssetPath: 'Assets/3D_Model/VAM/CH2/Materials_URP/N00_000_00_EyeWhite_00_EYE_URP.mat'
+      Tex '_MainTex': _06
+      Tex '_BaseMap': _06
+      Tex '_ShadowColorTex': _06
+  [5] Mat: 'N00_000_00_FaceBrow_00_FACE_URP', Shader: 'Hidden/lilToonTransparent', AssetPath: 'Assets/3D_Model/VAM/CH2/Materials_URP/N00_000_00_FaceBrow_00_FACE_URP.mat'
+      Tex '_MainTex': _07
+      Tex '_BaseMap': _07
+      Tex '_ShadowColorTex': _07
+  [6] Mat: 'N00_000_00_FaceEyeline_00_FACE_URP', Shader: 'Hidden/lilToonTransparent', AssetPath: 'Assets/3D_Model/VAM/CH2/Materials_URP/N00_000_00_FaceEyeline_00_FACE_URP.mat'
+      Tex '_MainTex': _09
+      Tex '_BaseMap': _09
+      Tex '_ShadowColorTex': _09
+Renderer: Body (Parent: Theater_Jack_The_Ripper, Root: Theater_Jack_The_Ripper)
+  [0] Mat: 'N00_000_00_Body_00_SKIN_URP', Shader: 'lilToon', AssetPath: 'Assets/3D_Model/VAM/CH2/Materials_URP/N00_000_00_Body_00_SKIN_URP.mat'
+      Tex '_MainTex': _10
+      Tex '_BaseMap': _10
+      Tex '_ShadowColorTex': _10
+  [1] Mat: 'N00_000_00_HairBack_00_HAIR_URP', Shader: 'Hidden/lilToonCutout', AssetPath: 'Assets/3D_Model/VAM/CH2/Materials_URP/N00_000_00_HairBack_00_HAIR_URP.mat'
+      Tex '_MainTex': _12
+      Tex '_BaseMap': _12
+      Tex '_ShadowColorTex': _12
+  [2] Mat: 'N00_007_01_Tops_01_CLOTH_01_URP', Shader: 'lilToon', AssetPath: 'Assets/3D_Model/VAM/CH2/Materials_URP/N00_007_01_Tops_01_CLOTH_01_URP.mat'
+      Tex '_MainTex': _13
+      Tex '_BaseMap': _13
+      Tex '_ShadowColorTex': _13
+  [3] Mat: 'N00_007_01_Tops_01_CLOTH_02_URP', Shader: 'lilToon', AssetPath: 'Assets/3D_Model/VAM/CH2/Materials_URP/N00_007_01_Tops_01_CLOTH_02_URP.mat'
+      Tex '_MainTex': _14
+      Tex '_BaseMap': _14
+      Tex '_ShadowColorTex': _14
+  [4] Mat: 'N00_007_01_Tops_01_CLOTH_03_URP', Shader: 'lilToon', AssetPath: 'Assets/3D_Model/VAM/CH2/Materials_URP/N00_007_01_Tops_01_CLOTH_03_URP.mat'
+      Tex '_MainTex': _15
+      Tex '_BaseMap': _15
+      Tex '_ShadowColorTex': _15
+  [5] Mat: 'N00_007_01_Tops_01_CLOTH_04_URP', Shader: 'lilToon', AssetPath: 'Assets/3D_Model/VAM/CH2/Materials_URP/N00_007_01_Tops_01_CLOTH_04_URP.mat'
+      Tex '_MainTex': _16
+      Tex '_BaseMap': _16
+      Tex '_ShadowColorTex': _16
+  [6] Mat: 'N00_001_02_Bottoms_01_CLOTH_URP', Shader: 'lilToon', AssetPath: 'Assets/3D_Model/VAM/CH2/Materials_URP/N00_001_02_Bottoms_01_CLOTH_URP.mat'
+      Tex '_MainTex': _17
+      Tex '_BaseMap': _17
+      Tex '_ShadowColorTex': _17
+  [7] Mat: 'N00_008_01_Shoes_01_CLOTH_URP', Shader: 'lilToon', AssetPath: 'Assets/3D_Model/VAM/CH2/Materials_URP/N00_008_01_Shoes_01_CLOTH_URP.mat'
+      Tex '_MainTex': _18
+      Tex '_BaseMap': _18
+      Tex '_ShadowColorTex': _18
+  [8] Mat: 'Accessory_SilkHat_01_CLOTH_URP', Shader: 'lilToon', AssetPath: 'Assets/3D_Model/VAM/CH2/Materials_URP/Accessory_SilkHat_01_CLOTH_URP.mat'
+      Tex '_MainTex': _19
+      Tex '_BaseMap': _19
+      Tex '_ShadowColorTex': _19
+Renderer: Hair (Parent: Newman_Model, Root: NestedParentArmature_Newman)
+  [0] Mat: 'N00_000_Hair_00_HAIR (Instance)', Shader: 'Hidden/lilToonCutout', AssetPath: 'Assets/3D_Model/VAM/CH1/CH2_Newman.Materials/N00_000_Hair_00_HAIR (Instance).asset'
+      Tex '_MainTex': _17
+      Tex '_BaseMap': _17
+      Tex '_ShadowColorTex': _17
+Renderer: Hair (Parent: Theater_Jack_The_Ripper, Root: Theater_Jack_The_Ripper)
+  [0] Mat: 'N00_000_Hair_00_HAIR_URP', Shader: 'Hidden/lilToonCutout', AssetPath: 'Assets/3D_Model/VAM/CH2/Materials_URP/N00_000_Hair_00_HAIR_URP.mat'
+      Tex '_MainTex': _20
+      Tex '_BaseMap': _20
+      Tex '_ShadowColorTex': _20
+Renderer: Face (Parent: Newman_Model, Root: NestedParentArmature_Newman)
+  [0] Mat: 'N00_000_00_FaceMouth_00_FACE (Instance)', Shader: 'Hidden/lilToonCutout', AssetPath: 'Assets/3D_Model/VAM/CH1/CH2_Newman.Materials/N00_000_00_FaceMouth_00_FACE (Instance).asset'
+      Tex '_MainTex': _01
+      Tex '_BaseMap': _01
+      Tex '_ShadowColorTex': _01
+  [1] Mat: 'N00_000_00_EyeIris_00_EYE (Instance)', Shader: 'Hidden/lilToonTransparent', AssetPath: 'Assets/3D_Model/VAM/CH1/CH2_Newman.Materials/N00_000_00_EyeIris_00_EYE (Instance).asset'
+      Tex '_MainTex': _02
+      Tex '_BaseMap': _02
+      Tex '_ShadowColorTex': _02
+  [2] Mat: 'N00_000_00_EyeHighlight_00_EYE (Instance)', Shader: 'Hidden/lilToonTransparent', AssetPath: 'Assets/3D_Model/VAM/CH1/CH2_Newman.Materials/N00_000_00_EyeHighlight_00_EYE (Instance).asset'
+      Tex '_MainTex': _03
+      Tex '_BaseMap': _03
+      Tex '_ShadowColorTex': _03
+  [3] Mat: 'N00_000_00_Face_00_SKIN (Instance)', Shader: 'lilToon', AssetPath: 'Assets/3D_Model/VAM/CH1/CH2_Newman.Materials/N00_000_00_Face_00_SKIN (Instance).asset'
+      Tex '_MainTex': _04
+      Tex '_BaseMap': _04
+      Tex '_ShadowColorTex': _04
+  [4] Mat: 'N00_000_00_EyeWhite_00_EYE (Instance)', Shader: 'lilToon', AssetPath: 'Assets/3D_Model/VAM/CH1/CH2_Newman.Materials/N00_000_00_EyeWhite_00_EYE (Instance).asset'
+      Tex '_MainTex': _06
+      Tex '_BaseMap': _06
+      Tex '_ShadowColorTex': _06
+  [5] Mat: 'N00_000_00_FaceBrow_00_FACE (Instance)', Shader: 'Hidden/lilToonTransparent', AssetPath: 'Assets/3D_Model/VAM/CH1/CH2_Newman.Materials/N00_000_00_FaceBrow_00_FACE (Instance).asset'
+      Tex '_MainTex': _07
+      Tex '_BaseMap': _07
+      Tex '_ShadowColorTex': _07
+  [6] Mat: 'N00_000_00_FaceEyeline_00_FACE (Instance)', Shader: 'Hidden/lilToonTransparent', AssetPath: 'Assets/3D_Model/VAM/CH1/CH2_Newman.Materials/N00_000_00_FaceEyeline_00_FACE (Instance).asset'
+      Tex '_MainTex': _09
+      Tex '_BaseMap': _09
+      Tex '_ShadowColorTex': _09
+
+=== ALL SHADERS IN PROJECT (Matching MToon / Toon / UTS) ===
+Shader: 'Hidden/lilToonCutout' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonCutoutOutline' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonFur' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonFurCutout' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonFurTwoPass' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonGem' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonLite' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonLiteCutout' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonLiteCutoutOutline' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonLiteOnePassTransparent' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonLiteOnePassTransparentOutline' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonLiteOutline' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonLiteTransparent' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonLiteTransparentOutline' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonLiteTwoPassTransparent' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonLiteTwoPassTransparentOutline' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonMultiFur' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonMultiGem' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonMultiOutline' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonMultiRefraction' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonOnePassTransparent' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonOnePassTransparentOutline' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonOutline' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonRefraction' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonRefractionBlur' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonTessellation' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonTessellationCutout' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonTessellationCutoutOutline' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonTessellationOnePassTransparent' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonTessellationOnePassTransparentOutline' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonTessellationOutline' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonTessellationTransparent' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonTessellationTransparentOutline' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonTessellationTwoPassTransparent' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonTessellationTwoPassTransparentOutline' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonTransparent' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonTransparentOutline' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonTwoPassTransparent' (supported=True, hasErrors=False)
+Shader: 'Hidden/lilToonTwoPassTransparentOutline' (supported=True, hasErrors=False)
+Shader: 'VRM/MToon' (supported=True, hasErrors=False)
+Shader: '_lil/[Optional] lilToonFakeShadow' (supported=True, hasErrors=False)
+Shader: '_lil/[Optional] lilToonFurOnlyCutout' (supported=True, hasErrors=False)
+Shader: '_lil/[Optional] lilToonFurOnlyTransparent' (supported=True, hasErrors=False)
+Shader: '_lil/[Optional] lilToonFurOnlyTwoPass' (supported=True, hasErrors=False)
+Shader: '_lil/[Optional] lilToonLiteOverlay' (supported=True, hasErrors=False)
+Shader: '_lil/[Optional] lilToonLiteOverlayOnePass' (supported=True, hasErrors=False)
+Shader: '_lil/[Optional] lilToonOutlineOnly' (supported=True, hasErrors=False)
+Shader: '_lil/[Optional] lilToonOutlineOnlyCutout' (supported=True, hasErrors=False)
+Shader: '_lil/[Optional] lilToonOutlineOnlyTransparent' (supported=True, hasErrors=False)
+Shader: '_lil/[Optional] lilToonOverlay' (supported=True, hasErrors=False)
+Shader: '_lil/[Optional] lilToonOverlayOnePass' (supported=True, hasErrors=False)
+Shader: '_lil/lilToonMulti' (supported=True, hasErrors=False)
+Shader: 'lilToon' (supported=True, hasErrors=False)

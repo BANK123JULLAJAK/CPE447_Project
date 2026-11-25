@@ -1,0 +1,677 @@
+--- Analyzing London.fbx SubAssets ---
+FBX Material: Wheels, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Button_Silver, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Cream_Clean, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Black_Plastic, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Yellow, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Roof_Black, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: material_0, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Faded_Glass, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Orange, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Glass, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: White, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Body, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Caution_Sign, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: Image_0, BumpMap: null
+FBX Material: Cream, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Ceiling_Lights, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Carpet, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Button_Silver.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: material, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Material, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Wall, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: No_Smoking, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Silver_Gold, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Mud.007, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Mud.006, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_RedBrick.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: red_bricks_04_diff_2k, BumpMap: red_bricks_04_nor_gl_2k
+FBX Material: Brass.006, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_IronExt.006, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_Trim.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_Pale.004, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Brick1.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: red_bricks_04_diff_2k, BumpMap: red_bricks_04_nor_gl_2k
+FBX Material: Stone.007, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: sandstone_blocks_05_diff_2k, BumpMap: sandstone_blocks_05_nor_gl_2k
+FBX Material: DarkStone.006, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: WindowAmber2.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: Timber.006, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: wood, BumpMap: wood_normal
+FBX Material: WindowDark.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Iron.005, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: WindowAmber1.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: WindowAmber0.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: WindowAmber3.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: DoorPaint.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Brass.009, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: RoofLead.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Slate.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: grey_roof_01_diff_2k, BumpMap: grey_roof_01_nor_gl_2k
+FBX Material: WindowDim.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: Brick2.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: brick_wall_10_diff_2k, BumpMap: brick_wall_10_nor_gl_2k
+FBX Material: Brick0.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: brick_wall_09_diff_2k, BumpMap: brick_wall_09_nor_gl_2k
+FBX Material: WarmGlass.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Iron.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: WarmGlass, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Iron.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Iron, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Stone, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: castle_wall_slates_diff_2k, BumpMap: castle_wall_slates_nor_gl_2k
+FBX Material: Brick2, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: red_bricks_04_diff_2k, BumpMap: red_bricks_04_nor_gl_2k
+FBX Material: DarkStone, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: sandstone_blocks_05_diff_2k, BumpMap: sandstone_blocks_05_nor_gl_2k
+FBX Material: WindowAmber3, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: Timber, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: wood, BumpMap: wood_normal
+FBX Material: WindowDark, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: WindowAmber2, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: WindowAmber1, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: WindowAmber0, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: DoorPaint, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Brass, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: RoofLead, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: grey_roof_01_diff_2k, BumpMap: grey_roof_01_nor_gl_2k
+FBX Material: Slate, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: grey_roof_01_diff_2k, BumpMap: grey_roof_01_nor_gl_2k
+FBX Material: WindowDim, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: Brick0, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: brick_wall_10_diff_2k, BumpMap: brick_wall_10_nor_gl_2k
+FBX Material: Brick1, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: red_bricks_04_diff_2k, BumpMap: red_bricks_04_nor_gl_2k
+FBX Material: LanternGlow, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_Pale.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_Trim.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: beige_wall_001_diff_2k, BumpMap: beige_wall_001_nor_gl_2k
+FBX Material: EXT_CobblesExt.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: EXT_DarkExt.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Brass.005, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Gold.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Wax.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Flame.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Silver.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_RedBrick, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: brick_wall_10_diff_2k, BumpMap: brick_wall_10_nor_gl_2k
+FBX Material: EXT_GlassExt, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_IronExt.004, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_MaroonExt, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Brass.004, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_LampExt.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_SlateExt.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: grey_roof_01_diff_2k, BumpMap: grey_roof_01_nor_gl_2k
+FBX Material: Timber.005, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: old_wooden_floor_02_diff_2k, BumpMap: old_wooden_floor_02_nor_gl_2k
+FBX Material: Brick3.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: 4_brick3, BumpMap: 3_brick3_normal
+FBX Material: Stone.004, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: 7_stone, BumpMap: 6_stone_normal
+FBX Material: RedVelvet, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: velour_velvet_diff_2k, BumpMap: velour_velvet_nor_gl_2k
+FBX Material: DarkStone.005, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Ink, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_Pale, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: beige_wall_001_diff_2k, BumpMap: beige_wall_001_nor_gl_2k
+FBX Material: EXT_Trim, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: beige_wall_001_diff_2k, BumpMap: beige_wall_001_nor_gl_2k
+FBX Material: Mud.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Mud, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_GlassExt.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_SlateExt.004, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: slate, BumpMap: null
+FBX Material: EXT_WoodExt.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: wood, BumpMap: null
+FBX Material: EXT_CobblesExt.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: whitewashed_brick_diff_2k, BumpMap: whitewashed_brick_nor_gl_2k
+FBX Material: Timber.009, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: wood, BumpMap: wood_normal
+FBX Material: FoliageB.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: FoliageC.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: FoliageA.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DryPrint.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DryPrint.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: WarmGlass.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Iron.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_RedBrick.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: brick0, BumpMap: null
+FBX Material: Iron.010, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Brass.014, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: LanternGlow.004, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Iron.009, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Brass.013, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: LanternGlow.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Brick3.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: brick_wall_10_diff_2k, BumpMap: brick_wall_10_nor_gl_2k
+FBX Material: FoliageB, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: FoliageC, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: FoliageA, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Iron.012, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: CarriagePaint.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: WindowDark.006, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: WindowAmber0.004, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: Brass.016, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Leather.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Gilding.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Timber.012, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: wood, BumpMap: wood_normal
+FBX Material: LanternGlow.006, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: HorseBrown.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: HorseBlack.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Eye.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_GrassExt, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: brown_mud_leaves_01_diff_2k, BumpMap: brown_mud_leaves_01_nor_gl_2k
+FBX Material: DOC_newspaper, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: newspaper, BumpMap: null
+FBX Material: OldPaper, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DOC_newspaper.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: newspaper, BumpMap: null
+FBX Material: OldPaper.005, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DryPrint.007, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DryPrint.008, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Brick1.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: red_bricks_04_diff_2k, BumpMap: red_bricks_04_nor_gl_2k
+FBX Material: Brick0.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: brick_wall_10_diff_2k, BumpMap: brick_wall_10_nor_gl_2k
+FBX Material: WindowDark.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Stone.005, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: DarkStone.007, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Ivory.004, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Timber.007, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: old_wooden_floor_02_diff_2k, BumpMap: old_wooden_floor_02_nor_gl_2k
+FBX Material: Brass.007, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: WindowDim.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: 11_window, BumpMap: null
+FBX Material: Ink.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Gold.004, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_DarkExt.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_IronExt, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_LampExt, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Iron.011, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: CarriagePaint.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: WindowDark.005, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: WindowAmber0.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: Brass.015, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Leather.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Gilding.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Timber.011, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: wood, BumpMap: wood_normal
+FBX Material: LanternGlow.005, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: HorseBrown.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: HorseBlack.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Eye.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Timber.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: 5_wood, BumpMap: 4_wood_normal
+FBX Material: DryPrint.015, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DryPrint.016, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DarkStone.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Cobbles, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Brick1.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: brick_wall_10_diff_2k, BumpMap: brick_wall_10_nor_gl_2k
+FBX Material: Stone.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: stone, BumpMap: stone_normal
+FBX Material: WindowDark.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Timber.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: wood, BumpMap: wood_normal
+FBX Material: WindowLit.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: WindowDim.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: Brass.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Slate.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: grey_roof_01_diff_2k, BumpMap: grey_roof_01_nor_gl_2k
+FBX Material: RoofLead.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Brick0.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: brick_wall_10_diff_2k, BumpMap: brick_wall_10_nor_gl_2k
+FBX Material: Brick2.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: brick_wall_09_diff_2k, BumpMap: brick_wall_09_nor_gl_2k
+FBX Material: Ivory, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Water, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: water, BumpMap: water_normal
+FBX Material: Gold, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Mud.010, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Mud.011, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DryPrint.017, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DryPrint.018, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DryPrint.011, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DryPrint.012, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DryPrint.021, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DryPrint.022, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_CobblesExt, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: sandstone_blocks_05_diff_2k, BumpMap: sandstone_blocks_05_nor_gl_2k
+FBX Material: Blood.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: CarriagePaint, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Leather, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Gilding, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: HorseBrown, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: HorseBlack, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Eye, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Mortar, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Setts_2, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Setts_6, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Setts_1, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Setts_8, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Setts_7, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Setts_5, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Setts_4, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Setts_0, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Setts_3, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Puddle, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: WetKerb, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: sandstone_blocks_05_diff_2k, BumpMap: sandstone_blocks_05_nor_gl_2k
+FBX Material: DryPrint.013, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DryPrint.014, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Brick1.004, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: brick1, BumpMap: null
+FBX Material: Stone.008, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: stone, BumpMap: stone_normal
+FBX Material: DarkStone.008, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: WindowAmber2.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: Timber.008, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: wood, BumpMap: wood_normal
+FBX Material: WindowDark.004, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Iron.006, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: WindowAmber1.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: WindowAmber0.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: WindowAmber3.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: DoorPaint.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Brass.010, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: RoofLead.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Slate.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: slate, BumpMap: slate_normal
+FBX Material: WindowDim.004, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: Brick2.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: brick2, BumpMap: brick2_normal
+FBX Material: Brick0.004, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: brick0, BumpMap: brick0_normal
+FBX Material: Steel, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Steel.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Handkerchief.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: 8_handkerchief, BumpMap: 7_handkerchief_normal
+FBX Material: Ivory.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DOC_train_ticket, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: 12_train_ticket, BumpMap: null
+FBX Material: OldPaper.004, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DarkStone.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Brick3, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: brick_wall_09_diff_2k, BumpMap: brick_wall_09_nor_gl_2k
+FBX Material: DryPrint.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DryPrint.004, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DOC_invitation, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: 9_invitation, BumpMap: null
+FBX Material: OldPaper.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DOC_theatre_note, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: 10_theatre_note, BumpMap: null
+FBX Material: Blood.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DryPrint.005, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DryPrint.006, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DOC_theatre_ticket, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: theatre_ticket, BumpMap: null
+FBX Material: Ivory.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_Ashlar, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: stone, BumpMap: sandstone_blocks_05_nor_gl_2k
+FBX Material: EXT_DarkExt, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: sandstone_blocks_05_diff_2k, BumpMap: sandstone_blocks_05_nor_gl_2k
+FBX Material: EXT_StainedExt, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: stained_glass, BumpMap: null
+FBX Material: EXT_SlateExt.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: grey_roof_01_diff_2k, BumpMap: grey_roof_01_nor_gl_2k
+FBX Material: EXT_IronExt.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_Pale.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Brass.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Wax.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Flame.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Stone.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: StainedGlass.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: 3_stained_glass, BumpMap: null
+FBX Material: Gold.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_WoodExt, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: wood, BumpMap: null
+FBX Material: Moon, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DOC_station_note, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: 14_station_note, BumpMap: null
+FBX Material: Silver.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Mortar.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Setts_2.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Setts_6.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Setts_1.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Setts_8.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Setts_7.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Setts_5.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Setts_4.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Setts_0.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Setts_3.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: StoneBricksSplitface001_COL_2K, BumpMap: null
+FBX Material: Puddle.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DarkStone.004, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: sandstone_blocks_05_diff_2k, BumpMap: sandstone_blocks_05_nor_gl_2k
+FBX Material: WetKerb.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: sandstone_blocks_05_diff_2k, BumpMap: sandstone_blocks_05_nor_gl_2k
+FBX Material: Stone.006, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: castle_wall_slates_diff_2k, BumpMap: castle_wall_slates_nor_gl_2k
+FBX Material: Iron.004, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: BlueFabric, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Timber.010, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: wood, BumpMap: wood_normal
+FBX Material: FoliageA.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: FoliageB.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: FoliageC.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Mud.005, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Mud.004, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: BlackLeather, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DOC_prayer.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: 9_prayer, BumpMap: null
+FBX Material: OldPaper.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: ClockFace.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: 13_clock, BumpMap: null
+FBX Material: ClockBlack.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_LampExt.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_IronExt.001, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_IronExt.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Mud.008, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Mud.009, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Mud.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Mud.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DryPrint.019, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DryPrint.020, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Blood, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Sky.003, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: EXT_RedBrick.002, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: brick0, BumpMap: null
+FBX Material: Sky, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Mud.013, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: Mud.012, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DryPrint.009, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: DryPrint.010, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+FBX Material: WindowLit, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: window, BumpMap: null
+FBX Material: ClockFace, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: clock, BumpMap: null
+FBX Material: ClockBlack, Shader: Universal Render Pipeline/Lit, Cull: 2, BaseMap: null, BumpMap: null
+
+--- Analyzing Scene Renderers ---
+Renderer: Object_67 (1), Materials: Yellow
+Renderer: TRAINSTATION_LAMP.010, Materials: WarmGlass.002, Iron.003
+Renderer: Object_44 (1), Materials: Roof_Black
+Renderer: Object_88 (1), Materials: material
+Renderer: Object_31 (1), Materials: Roof_Black
+Renderer: CHURCH.004, Materials: EXT_CobblesExt
+Renderer: Object_17 (1), Materials: Faded_Glass
+Renderer: CHURCH_PEW.003, Materials: Timber.003
+Renderer: Object_65, Materials: Caution_Sign
+Renderer: TRAIN_EVIDENCE_BLOODSPLATTER.002, Materials: Blood.002
+Renderer: CHURCH_EVIDENC_DRYSHOEPRINT.008, Materials: DryPrint.015, DryPrint.016
+Renderer: Object_102, Materials: Cream_Clean
+Renderer: Object_85, Materials: Black_Plastic
+Renderer: LONDON_LAMP.021, Materials: Iron, Brass, LanternGlow
+Renderer: Object_38 (1), Materials: material
+Renderer: Object_101, Materials: Material
+Renderer: Object_40, Materials: Black_Plastic
+Renderer: LONDON_LAMP.010, Materials: Iron, Brass, LanternGlow
+Renderer: THEATER_LAMP.011, Materials: WarmGlass.001, Iron.002
+Renderer: CHURCH_EVIDENC_DRYSHOEPRINT.011, Materials: DryPrint.021, DryPrint.022
+Renderer: LONDON_TOWNHOUSE.004, Materials: Iron, Stone, Brick3, DarkStone, WindowAmber3, Timber, WindowDark, WindowAmber2, WindowAmber1, WindowAmber0, DoorPaint, Brass, Slate, RoofLead, WindowDim, Brick2, Brick0, Brick1
+Renderer: TRAIN_EVIDENCE_POCKETWATCH, Materials: Gold.004, ClockFace.001, ClockBlack.001, Brass.007
+Renderer: Object_37, Materials: Yellow
+Renderer: TRAIN_EVIDENCE_BLOODSPLATTER.001, Materials: Blood.001
+Renderer: Object_115, Materials: Body
+Renderer: LONDON_LAMP.001, Materials: Iron, Brass, LanternGlow
+Renderer: Object_10, Materials: Caution_Sign
+Renderer: TRAINSTATION_LAMP.006, Materials: WarmGlass.002, Iron.003
+Renderer: THEATER_LAMP.008, Materials: WarmGlass.001, Iron.002
+Renderer: CHURCH_PEW.002, Materials: Timber.003
+Renderer: Object_23, Materials: Orange
+Renderer: LONDON_TREE.002, Materials: Timber, FoliageB, FoliageC, FoliageA
+Renderer: Object_116, Materials: White
+Renderer: Object_28 (1), Materials: Body
+Renderer: TRAIN_STATION_STARIRWELL.002, Materials: EXT_RedBrick.002
+Renderer: Object_98, Materials: Cream_Clean
+Renderer: THEATER_EVIDENCE_THEATERMASK, Materials: Ivory.003
+Renderer: Object_36, Materials: Orange
+Renderer: LONDON_CARRIAGE.002, Materials: Iron, CarriagePaint, WindowDark, WindowAmber0, Brass, Leather, Gilding, Timber, LanternGlow, HorseBrown, HorseBlack, Eye
+Renderer: Object_34 (1), Materials: Roof_Black
+Renderer: LONDON_TOWNHOUSE.028, Materials: Brick1.004, Stone.008, DarkStone.008, WindowAmber2.002, Timber.008, WindowDark.004, Iron.006, WindowAmber1.002, WindowAmber0.002, WindowAmber3.002, DoorPaint.002, Brass.010, RoofLead.003, Slate.003, WindowDim.004, Brick2.003, Brick0.004
+Renderer: LONDON_TREE.009, Materials: Timber.009, FoliageB.002, FoliageA.002, FoliageC.002
+Renderer: LONDON_TOWNHOUSE.008, Materials: Brick1, Stone, DarkStone, WindowAmber2, Timber, WindowDark, Iron, WindowAmber1, WindowAmber0, WindowAmber3, DoorPaint, Brass, RoofLead, Slate, WindowDim, Brick2, Brick0
+Renderer: LONDON_CARRIAGE.007, Materials: Iron.012, CarriagePaint.002, WindowDark.006, WindowAmber0.004, Brass.016, Leather.002, Gilding.002, Timber.012, LanternGlow.006, HorseBrown.002, HorseBlack.002, Eye.002
+Renderer: TRAINSTATION_LAMP.007, Materials: WarmGlass.002, Iron.003
+Renderer: Object_117 (1), Materials: Black_Plastic
+Renderer: THEATER_LAMP.003, Materials: EXT_IronExt.004, EXT_LampExt.001
+Renderer: LONDON_LAMP.035, Materials: Iron.010, Brass.014, LanternGlow.004
+Renderer: Object_44, Materials: Roof_Black
+Renderer: Object_76 (1), Materials: Wheels
+Renderer: CHURCH, Materials: DarkStone.003
+Renderer: CHURCH_EVIDENC_DRYSHOEPRINT.006, Materials: DryPrint.011, DryPrint.012
+Renderer: ALLEY_EVIDENCE_FOOTPRINT.004, Materials: Mud.008, Mud.009
+Renderer: Object_118 (1), Materials: Glass
+Renderer: LONDON_TREE.013, Materials: Timber.010, FoliageA.003, FoliageB.003, FoliageC.003
+Renderer: TRAINSTATION_LAMP.004, Materials: WarmGlass.002, Iron.003
+Renderer: Object_96, Materials: Ceiling_Lights
+Renderer: TRAIN_STATION_STARIRWELL, Materials: EXT_RedBrick.001, Brass.006, EXT_IronExt.006, EXT_Trim.002, EXT_Pale.004
+Renderer: Object_135 (1), Materials: Black_Plastic
+Renderer: Object_42 (1), Materials: Wheels
+Renderer: ALLEY_EVIDENCE_POCKETKNIFE, Materials: Timber.001, Brass.001, Steel
+Renderer: ALLEY_EVIDENCE_FOOTPRINT.005, Materials: Mud.010, Mud.011
+Renderer: Object_90, Materials: Carpet
+Renderer: Object_20, Materials: Body
+Renderer: TRAIN_STATION_STATION, Materials: EXT_RedBrick.001, EXT_Pale.004, EXT_GlassExt.001, EXT_Trim.002, EXT_SlateExt.004, EXT_IronExt.006, Brass.006, EXT_WoodExt.001, EXT_CobblesExt.002
+Renderer: TRAINSTATION_BENCH, Materials: Timber.007, Iron.003
+Renderer: Object_127 (1), Materials: Cream_Clean
+Renderer: LONDON_CARRIAGE.008, Materials: Iron.012, CarriagePaint.002, WindowDark.006, WindowAmber0.004, Brass.016, Leather.002, Gilding.002, Timber.012, LanternGlow.006, HorseBrown.002, HorseBlack.002, Eye.002
+Renderer: Object_51, Materials: material
+Renderer: TRAIN_EVIDENCE_STATIONNOTE, Materials: DOC_station_note, OldPaper.004
+Renderer: LONDON_TOWNHOUSE.016, Materials: Brick3.002, Stone.007, DarkStone.006, WindowDark.003, Timber.006, WindowAmber0.001, WindowAmber3.001, Iron.005, WindowAmber1.001, WindowAmber2.001, DoorPaint.001, Brass.009, RoofLead.002, Slate.002, WindowDim.003, Brick2.002, Brick0.003, Brick1.003
+Renderer: Object_78, Materials: Silver_Gold
+Renderer: Object_82 (1), Materials: Roof_Black
+Renderer: THEATER_LAMP.012, Materials: WarmGlass.001, Iron.002
+Renderer: CHURCH_EVIDENC_DRYSHOEPRINT.009, Materials: DryPrint.017, DryPrint.018
+Renderer: TRAINSTATION_LAMP.008, Materials: WarmGlass.002, Iron.003
+Renderer: LONDON_TOWNHOUSE.012, Materials: Brick0, Stone, DarkStone, WindowAmber1, Timber, WindowAmber2, WindowAmber0, Iron, WindowDark, WindowAmber3, DoorPaint, Brass, Slate, RoofLead, WindowDim, Brick2, Brick1
+Renderer: THEATER_LAMP.004, Materials: EXT_IronExt.004, EXT_LampExt.001
+Renderer: THEATER_LAMP.007, Materials: WarmGlass.001, Iron.002
+Renderer: Object_57, Materials: Black_Plastic
+Renderer: TRAINSTATION_BENCH.001, Materials: Timber.007, Iron.003
+Renderer: CHURCH_PEW.006, Materials: Timber.003
+Renderer: Object_75 (1), Materials: Wheels
+Renderer: LONDON_TOWNHOUSE.025, Materials: Iron.005, Stone.007, Brick1.003, DarkStone.006, WindowAmber3.001, Timber.006, WindowDark.003, WindowAmber1.001, WindowAmber2.001, DoorPaint.001, Brass.009, RoofLead.002, Slate.002, WindowDim.003, Brick2.002, Brick0.003
+Renderer: Object_37 (1), Materials: Yellow
+Renderer: LONDON_LAMP.003, Materials: Iron, Brass, LanternGlow
+Renderer: Object_77 (1), Materials: Button_Silver
+Renderer: LONDON_STREET, Materials: Mortar, Setts_2, Setts_6, Setts_1, Setts_8, Setts_7, Setts_5, Setts_4, Setts_0, Setts_3, Puddle, DarkStone, WetKerb, Stone, Iron
+Renderer: LONDON_TREE.008, Materials: Timber, FoliageA, FoliageB, FoliageC
+Renderer: Object_14, Materials: Yellow
+Renderer: LONDON_TREE.001, Materials: Timber, FoliageB, FoliageC, FoliageA
+Renderer: Object_100, Materials: Orange
+Renderer: LONDON_TOWNHOUSE.007, Materials: Brick0, Stone, DarkStone, WindowAmber2, Timber, WindowAmber3, WindowDark, Iron, WindowAmber1, WindowAmber0, DoorPaint, Brass, Slate, RoofLead, WindowDim, Brick2, Brick1
+Renderer: Object_12, Materials: Caution_Sign
+Renderer: Object_21 (1), Materials: Cream
+Renderer: LONDON_LAMP.008, Materials: Iron, Brass, LanternGlow
+Renderer: Object_34, Materials: Roof_Black
+Renderer: Object_16, Materials: Glass
+Renderer: Object_8 (1), Materials: Black_Plastic
+Renderer: Object_88, Materials: material
+Renderer: ALLEY_LAMP.005, Materials: WarmGlass, Iron.001
+Renderer: THEATER_LAMP.005, Materials: EXT_IronExt.004, EXT_LampExt.001
+Renderer: LONDON_LAMP.009, Materials: Iron, Brass, LanternGlow
+Renderer: LONDON_TOWNHOUSE.005, Materials: Iron, Stone, Brick2, DarkStone, WindowAmber3, Timber, WindowDark, WindowAmber2, WindowAmber1, WindowAmber0, DoorPaint, Brass, RoofLead, Slate, WindowDim, Brick0, Brick1
+Renderer: Object_4, Materials: Roof_Black
+Renderer: Object_24, Materials: White
+Renderer: Object_123, Materials: material_0
+Renderer: Object_118, Materials: Glass
+Renderer: Object_119 (1), Materials: Button_Silver
+Renderer: Object_32, Materials: Body
+Renderer: TRAINSTATION_BENCH.002, Materials: Timber.007, Iron.003
+Renderer: Object_109, Materials: Ceiling_Lights
+Renderer: ALLEY_EVIDENCE_FOOTPRINT.001, Materials: Mud.003, Mud.002
+Renderer: LONDON_LAMP.034, Materials: Iron.010, Brass.014, LanternGlow.004
+Renderer: Object_8, Materials: Black_Plastic
+Renderer: LONDON_LAMP.027, Materials: Iron.009, Brass.013, LanternGlow.003
+Renderer: Object_49, Materials: Orange
+Renderer: Object_95, Materials: Cream_Clean
+Renderer: TRAINSTATION_LAMP, Materials: EXT_IronExt.006, EXT_LampExt.002
+Renderer: Object_101 (1), Materials: Material
+Renderer: Object_18, Materials: No_Smoking
+Renderer: LONDON_LAMP.029, Materials: Iron.009, Brass.013, LanternGlow.003
+Renderer: LONDON_TREE.016, Materials: Timber.010, FoliageA.003, FoliageC.003, FoliageB.003
+Renderer: Object_83, Materials: Wheels
+Renderer: Object_105, Materials: White
+Renderer: Object_12 (1), Materials: Caution_Sign
+Renderer: ALLEY_LAMP.001, Materials: WarmGlass, Iron.001
+Renderer: Object_137 (1), Materials: Black_Plastic
+Renderer: Object_103 (1), Materials: Black_Plastic
+Renderer: LONDON_TOWNHOUSE, Materials: Iron, Stone, Brick2, DarkStone, WindowAmber0, Timber, WindowDark, WindowAmber1, WindowAmber2, DoorPaint, Brass, Slate, RoofLead, WindowDim, Brick0, Brick1
+Renderer: Object_103, Materials: Black_Plastic
+Renderer: Object_50, Materials: Yellow
+Renderer: Object_111 (1), Materials: White
+Renderer: Object_4 (1), Materials: Roof_Black
+Renderer: Object_107, Materials: White
+Renderer: Object_73 (1), Materials: Button_Silver
+Renderer: ALLEY_LAMP, Materials: WarmGlass, Iron.001
+Renderer: LONDON_TOWNHOUSE.001, Materials: Iron, Stone, Brick3, DarkStone, WindowAmber2, Timber, WindowDark, WindowAmber1, DoorPaint, Brass, Slate, RoofLead, WindowDim, Brick2, Brick0, Brick1
+Renderer: LONDON_LAMP.030, Materials: Iron.010, Brass.014, LanternGlow.004
+Renderer: Object_121, Materials: material_0
+Renderer: Object_67, Materials: Yellow
+Renderer: CHURCH_EVIDENC_DRYSHOEPRINT.002, Materials: DryPrint.003, DryPrint.004
+Renderer: Object_61 (1), Materials: Wheels
+Renderer: Object_50 (1), Materials: Yellow
+Renderer: Object_29 (1), Materials: Roof_Black
+Renderer: LONDON_TOWNHOUSE.003, Materials: Iron, Stone, Brick0, DarkStone, WindowDark, Timber, WindowAmber2, WindowAmber3, WindowAmber1, WindowAmber0, DoorPaint, Brass, Slate, RoofLead, WindowDim, Brick2, Brick1
+Renderer: Object_6, Materials: Black_Plastic
+Renderer: Object_22, Materials: Button_Silver
+Renderer: Object_137, Materials: Black_Plastic
+Renderer: TRAINSTATION_LAMP.005, Materials: WarmGlass.002, Iron.003
+Renderer: ALLEY_LAMP.002, Materials: WarmGlass, Iron.001
+Renderer: CHURCH_PEW.001, Materials: Timber.003
+Renderer: LONDON_LAMP.022, Materials: Iron, Brass, LanternGlow
+Renderer: LONDON_LAMP.032, Materials: Iron.010, Brass.014, LanternGlow.004
+Renderer: LONDON_TOWNHOUSE.027, Materials: Iron.005, Stone.007, Brick2.002, DarkStone.006, WindowAmber0.001, Timber.006, WindowDark.003, WindowAmber1.001, WindowAmber2.001, DoorPaint.001, Brass.009, Slate.002, RoofLead.002, WindowDim.003, Brick0.003, Brick1.003
+Renderer: Object_14 (1), Materials: Yellow
+Renderer: Object_91 (1), Materials: Cream_Clean
+Renderer: Object_85 (1), Materials: Black_Plastic
+Renderer: LONDON_TOWNHOUSE.015, Materials: Brick0.003, Stone.007, DarkStone.006, WindowAmber1.001, Timber.006, WindowAmber2.001, WindowAmber0.001, Iron.005, WindowDark.003, WindowAmber3.001, DoorPaint.001, Brass.009, Slate.002, RoofLead.002, WindowDim.003, Brick2.002, Brick1.003
+Renderer: ALLEY_EVIDENCE_NEWSPAPER, Materials: DOC_newspaper, OldPaper, DOC_newspaper.001, OldPaper.005
+Renderer: ALLEY_EVIDENCE_FOOTPRINT, Materials: Mud.001, Mud
+Renderer: ALLEY_LAMP.004, Materials: WarmGlass, Iron.001
+Renderer: LONDON_TREE.007, Materials: Timber, FoliageC, FoliageA, FoliageB
+Renderer: LONDON_TOWNHOUSE.017, Materials: Brick2.002, Stone.007, DarkStone.006, WindowDark.003, Timber.006, WindowAmber2.001, WindowAmber3.001, WindowAmber0.001, Iron.005, WindowAmber1.001, DoorPaint.001, Brass.009, Slate.002, RoofLead.002, WindowDim.003, Brick0.003, Brick1.003
+Renderer: Object_59, Materials: Roof_Black
+Renderer: CHURCH.5355, Materials: EXT_Pale, EXT_Trim, EXT_Ashlar, EXT_DarkExt, EXT_StainedExt, EXT_SlateExt.001, EXT_IronExt.003, EXT_Pale.001, Brass.003, Wax.001, Flame.001, Stone.003, StainedGlass.001, Ivory.002, Gold.002, EXT_IronExt, EXT_WoodExt
+Renderer: LONDON_LANMARK, Materials: Stone, DarkStone, WindowLit, Slate, Brick2, RoofLead, WindowDim, WindowDark, ClockFace, ClockBlack, Brass, Gilding, Iron
+Renderer: ALLEY_LAMP.003, Materials: WarmGlass, Iron.001
+Renderer: LONDON_LAMP.006, Materials: Iron, Brass, LanternGlow
+Renderer: Object_127, Materials: Cream_Clean
+Renderer: LONDON_CARRIAGE.003, Materials: Iron.011, CarriagePaint.001, WindowDark.005, WindowAmber0.003, Brass.015, Leather.001, Gilding.001, Timber.011, LanternGlow.005, HorseBrown.001, HorseBlack.001, Eye.001
+Renderer: LONDON_LAMP.016, Materials: Iron, Brass, LanternGlow
+Renderer: LONDON_LAMP.033, Materials: Iron.010, Brass.014, LanternGlow.004
+Renderer: CHURCH.003, Materials: EXT_GrassExt
+Renderer: Object_131, Materials: Button_Silver
+Renderer: LONDON_TREE.012, Materials: Timber.009, FoliageB.002, FoliageC.002, FoliageA.002
+Renderer: Object_117, Materials: Black_Plastic
+Renderer: LONDON_TREE, Materials: Timber, FoliageC, FoliageA, FoliageB
+Renderer: LONDON_TREE.005, Materials: Timber, FoliageA, FoliageC, FoliageB
+Renderer: LONDON_LAMP.036, Materials: Iron.010, Brass.014, LanternGlow.004
+Renderer: Object_113 (1), Materials: Wheels
+Renderer: CHURCH_PEW, Materials: Timber.003
+Renderer: Object_16 (1), Materials: Glass
+Renderer: CHURCH_EVIDENC_DRYSHOEPRINT.005, Materials: DryPrint.009, DryPrint.010
+Renderer: TRAIN_STATION, Materials: Brick1.002, Brick0.002, WindowDark.002, Stone.005, EXT_RedBrick.001, DarkStone.007, Ivory.004, Timber.007, Brass.007, WindowDim.002, Ink.001, Iron.003, Gold.004, EXT_DarkExt.002
+Renderer: Object_5 (1), Materials: Yellow
+Renderer: LONDON_CARRIAGE, Materials: Iron, CarriagePaint, WindowDark, WindowAmber0, Brass, Leather, Gilding, Timber, LanternGlow, HorseBrown, HorseBlack, Eye
+Renderer: Object_6 (1), Materials: Black_Plastic
+Renderer: Object_18 (1), Materials: No_Smoking
+Renderer: CHURCH_LAMP.004, Materials: EXT_IronExt, EXT_LampExt
+Renderer: TRAINSTATION_LAMP.009, Materials: WarmGlass.002, Iron.003
+Renderer: Object_111, Materials: White
+Renderer: Object_26 (1), Materials: Button_Silver
+Renderer: ALLEY, Materials: DarkStone.001, Cobbles, Brick1.001, Stone.001, Iron.001, WindowDark.001, Timber.001, WindowLit.001, WindowDim.001, Brass.001, Slate.001, RoofLead.001, Brick0.001, Brick2.001, Ivory, Water, Gold
+Renderer: THEATER_EVIDENCE_WALKINGCANE, Materials: Timber.005, Brass.005, BlackLeather
+Renderer: CHURCH.743, Materials: EXT_IronExt, EXT_IronExt.001, EXT_IronExt.002
+Renderer: Object_45 (1), Materials: Button_Silver
+Renderer: Object_65 (1), Materials: Caution_Sign
+Renderer: THEATER, Materials: EXT_Pale.002, EXT_Trim.001, EXT_CobblesExt.001, EXT_DarkExt.001, Brass.005, Gold.003, Wax.002, Flame.002, Silver.002, EXT_RedBrick, EXT_GlassExt, EXT_IronExt.004, EXT_MaroonExt, Brass.004, EXT_LampExt.001, EXT_SlateExt.002, Timber.005, Brick3.001, Stone.004, RedVelvet, DarkStone.005, Ink
+Renderer: Object_63 (1), Materials: Caution_Sign
+Renderer: LONDON_TREE.004, Materials: Timber, FoliageB, FoliageA, FoliageC
+Renderer: Object_5, Materials: Yellow
+Renderer: Object_128 (1), Materials: Black_Plastic
+Renderer: LONDON_LAMP.013, Materials: Iron, Brass, LanternGlow
+Renderer: CHURCH_PEW.005, Materials: Timber.003
+Renderer: Object_71, Materials: Button_Silver
+Renderer: CHURCH.4049, Materials: EXT_Pale, EXT_Trim
+Renderer: LONDON_CARRIAGE.006, Materials: Iron.012, CarriagePaint.002, WindowDark.006, WindowAmber0.004, Brass.016, Leather.002, Gilding.002, Timber.012, LanternGlow.006, HorseBrown.002, HorseBlack.002, Eye.002
+Renderer: LONDON_LAMP.018, Materials: Iron, Brass, LanternGlow
+Renderer: Object_125, Materials: Wheels
+Renderer: THEATER_LAMP.010, Materials: WarmGlass.001, Iron.002
+Renderer: LONDON_LAMP.031, Materials: Iron.010, Brass.014, LanternGlow.004
+Renderer: CHURCH_LAMP.002, Materials: EXT_IronExt, EXT_LampExt
+Renderer: LONDON_TOWNHOUSE.022, Materials: Iron.005, Stone.007, Brick2.002, DarkStone.006, WindowAmber3.001, Timber.006, WindowDark.003, WindowAmber2.001, WindowAmber1.001, WindowAmber0.001, DoorPaint.001, Brass.009, RoofLead.002, Slate.002, WindowDim.003, Brick0.003, Brick1.003
+Renderer: THEATER_LAMP.001, Materials: EXT_IronExt.004, EXT_LampExt.001
+Renderer: Object_75, Materials: Wheels
+Renderer: CHURCH_EVIDENCE_RINGSMALL, Materials: Gold.002, Brass.003, Silver.001
+Renderer: Object_109 (1), Materials: Ceiling_Lights
+Renderer: Object_91, Materials: Cream_Clean
+Renderer: THEATER_LAMP.006, Materials: WarmGlass.001, Iron.002
+Renderer: ALLEY_EVIDENCE_FOOTPRINT.002, Materials: Mud.005, Mud.004
+Renderer: LONDON_TOWNHOUSE.010, Materials: Brick2, Stone, DarkStone, WindowDark, Timber, WindowAmber2, WindowAmber3, WindowAmber0, Iron, WindowAmber1, DoorPaint, Brass, Slate, RoofLead, WindowDim, Brick0, Brick1
+Renderer: Object_24 (1), Materials: White
+Renderer: TRAINSTATION_LAMP.011, Materials: WarmGlass.002, Iron.003
+Renderer: LONDON_TOWNHOUSE.014, Materials: Brick1.003, Stone.007, DarkStone.006, WindowAmber2.001, Timber.006, WindowAmber0.001, WindowDark.003, Iron.005, WindowAmber1.001, WindowAmber3.001, DoorPaint.001, Brass.009, Slate.002, RoofLead.002, WindowDim.003, Brick2.002, Brick0.003
+Renderer: Object_83 (1), Materials: Wheels
+Renderer: Object_113, Materials: Wheels
+Renderer: LONDON_TOWNHOUSE.021, Materials: Brick3.002, Stone.007, DarkStone.006, WindowDark.003, Timber.006, WindowAmber1.001, WindowAmber2.001, Iron.005, WindowAmber0.001, WindowAmber3.001, DoorPaint.001, Brass.009, RoofLead.002, Slate.002, WindowDim.003, Brick2.002, Brick0.003, Brick1.003
+Renderer: Object_133, Materials: Button_Silver.002
+Renderer: Object_133 (1), Materials: Button_Silver.002
+Renderer: CHURCH_LAMP.001, Materials: EXT_IronExt, EXT_LampExt
+Renderer: Object_80 (1), Materials: Wheels
+Renderer: LONDON_TOWNHOUSE.013, Materials: Brick1, Stone, DarkStone, WindowAmber2, Timber, WindowAmber0, WindowDark, Iron, WindowAmber1, WindowAmber3, DoorPaint, Brass, Slate, RoofLead, WindowDim, Brick2, Brick0
+Renderer: LONDON_LAMP.017, Materials: Iron, Brass, LanternGlow
+Renderer: Object_69 (1), Materials: Roof_Black
+Renderer: Object_38, Materials: material
+Renderer: Object_90 (1), Materials: Carpet
+Renderer: THEATER_LAMP, Materials: EXT_IronExt.004, EXT_LampExt.001
+Renderer: Object_61, Materials: Wheels
+Renderer: Object_28, Materials: Body
+Renderer: Object_36 (1), Materials: Orange
+Renderer: Object_80, Materials: Wheels
+Renderer: LONDON_TOWNHOUSE.026, Materials: Iron.005, Stone.007, Brick3.002, DarkStone.006, WindowAmber2.001, Timber.006, WindowDark.003, WindowAmber1.001, DoorPaint.001, Brass.009, Slate.002, RoofLead.002, WindowDim.003, Brick2.002, Brick0.003, Brick1.003
+Renderer: LONDON_TOWNHOUSE.019, Materials: Brick1.003, Stone.007, DarkStone.006, WindowAmber2.001, Timber.006, WindowDark.003, Iron.005, WindowAmber1.001, WindowAmber0.001, WindowAmber3.001, DoorPaint.001, Brass.009, RoofLead.002, Slate.002, WindowDim.003, Brick2.002, Brick0.003
+Renderer: Object_22 (1), Materials: Button_Silver
+Renderer: Object_139 (1), Materials: Black_Plastic
+Renderer: Object_55 (1), Materials: Roof_Black
+Renderer: LONDON_LAMP.019, Materials: Iron, Brass, LanternGlow
+Renderer: LONDON_TOWNHOUSE.023, Materials: Iron.005, Stone.007, Brick3.002, DarkStone.006, WindowAmber3.001, Timber.006, WindowDark.003, WindowAmber2.001, WindowAmber1.001, WindowAmber0.001, DoorPaint.001, Brass.009, Slate.002, RoofLead.002, WindowDim.003, Brick2.002, Brick0.003, Brick1.003
+Renderer: CHURCH_PEW.004, Materials: Timber.003
+Renderer: TRAIN_EVIDENCE_BLOODSPLATTER, Materials: Blood
+Renderer: ALLEY_EVIDENCE_FOOTPRINT.006, Materials: Mud.013, Mud.012
+Renderer: THEATER_EVIDENCE_PRIVATEMESSAGE, Materials: DOC_theatre_note, OldPaper.003
+Renderer: Object_130, Materials: Cream_Clean
+Renderer: Object_19, Materials: Roof_Black
+Renderer: Object_45, Materials: Button_Silver
+Renderer: Object_15 (1), Materials: Black_Plastic
+Renderer: Object_51 (1), Materials: material
+Renderer: CHURCH_EVIDENC_DRYSHOEPRINT.010, Materials: DryPrint.019, DryPrint.020
+Renderer: Object_123 (1), Materials: material_0
+Renderer: ATMOSPHERE_SCENE.002, Materials: Sky.003
+Renderer: Object_116 (1), Materials: White
+Renderer: LONDON_LAMP.023, Materials: Iron.009, Brass.013, LanternGlow.003
+Renderer: LONDON_LAMP.024, Materials: Iron.009, Brass.013, LanternGlow.003
+Renderer: Object_53, Materials: Wheels
+Renderer: Object_73, Materials: Button_Silver
+Renderer: CHURCH_EVIDENCE_EMBROIDEREDHANDKERCHIEF, Materials: Handkerchief.001, Ivory.002
+Renderer: Object_105 (1), Materials: White
+Renderer: LONDON_TREE.010, Materials: Timber.009, FoliageB.002, FoliageA.002, FoliageC.002
+Renderer: THEATER_LAMP.002, Materials: EXT_IronExt.004, EXT_LampExt.001
+Renderer: THEATER_LAMP.009, Materials: WarmGlass.001, Iron.002
+Renderer: Object_29, Materials: Roof_Black
+Renderer: LONDON_TOWNHOUSE.018, Materials: Brick3.002, Stone.007, DarkStone.006, WindowAmber1.001, Timber.006, WindowAmber0.001, WindowDark.003, WindowAmber2.001, Iron.005, DoorPaint.001, Brass.009, Slate.002, RoofLead.002, WindowDim.003, Brick2.002, Brick0.003, Brick1.003
+Renderer: LONDON_TREE.011, Materials: Timber.009, FoliageB.002, FoliageC.002, FoliageA.002
+Renderer: TRAIN_STATION_RAILWAY, Materials: DarkStone.007, Timber.007, Steel.001, Iron.003
+Renderer: Object_15, Materials: Black_Plastic
+Renderer: Object_93 (1), Materials: Wall
+Renderer: LONDON_TOWNHOUSE.002, Materials: Iron, Stone, Brick1, DarkStone, WindowAmber3, Timber, WindowDark, WindowAmber1, WindowAmber2, DoorPaint, Brass, RoofLead, Slate, WindowDim, Brick2, Brick0
+Renderer: LONDON_TOWNHOUSE.009, Materials: Brick3, Stone, DarkStone, WindowAmber1, Timber, WindowAmber0, WindowDark, WindowAmber2, Iron, DoorPaint, Brass, Slate, RoofLead, WindowDim, Brick2, Brick0, Brick1
+Renderer: LONDON_TREE.003, Materials: Timber, FoliageB, FoliageA, FoliageC
+Renderer: CHURCH_EVIDENC_DRYSHOEPRINT.003, Materials: DryPrint.005, DryPrint.006
+Renderer: Object_95 (1), Materials: Cream_Clean
+Renderer: LONDON_TREE.015, Materials: Timber.010, FoliageB.003, FoliageC.003, FoliageA.003
+Renderer: TRAIN_EVIDENCE_SPENTCARTRIDGECASE, Materials: Brass.007, Gold.004
+Renderer: LONDON_TREE.006, Materials: Timber, FoliageB, FoliageC, FoliageA
+Renderer: Object_125 (1), Materials: Wheels
+Renderer: TRAIN_EVIDENCE_RAILWAYTICKET, Materials: DOC_train_ticket, OldPaper.004
+Renderer: LONDON_LAMP.012, Materials: Iron, Brass, LanternGlow
+Renderer: CHURCH_PEW.007, Materials: Timber.003
+Renderer: LONDON_TOWNHOUSE.020, Materials: Brick0.003, Stone.007, DarkStone.006, WindowAmber2.001, Timber.006, WindowAmber3.001, WindowDark.003, Iron.005, WindowAmber1.001, WindowAmber0.001, DoorPaint.001, Brass.009, Slate.002, RoofLead.002, WindowDim.003, Brick2.002, Brick1.003
+Renderer: Object_20 (1), Materials: Body
+Renderer: Object_42, Materials: Wheels
+Renderer: Object_100 (1), Materials: Orange
+Renderer: Object_31, Materials: Roof_Black
+Renderer: Object_82, Materials: Roof_Black
+Renderer: Object_53 (1), Materials: Wheels
+Renderer: Object_121 (1), Materials: material_0
+Renderer: CHURCH_EVIDENC_DRYSHOEPRINT.004, Materials: DryPrint.007, DryPrint.008
+Renderer: LONDON_TOWNHOUSE.011, Materials: Brick3, Stone, DarkStone, WindowDark, Timber, WindowAmber0, WindowAmber3, Iron, WindowAmber1, WindowAmber2, DoorPaint, Brass, RoofLead, Slate, WindowDim, Brick2, Brick0, Brick1
+Renderer: Object_71 (1), Materials: Button_Silver
+Renderer: LONDON_LAMP.005, Materials: Iron, Brass, LanternGlow
+Renderer: Object_19 (1), Materials: Roof_Black
+Renderer: CHURCH_LAMP.003, Materials: EXT_IronExt, EXT_LampExt
+Renderer: CHURCH_LAMP.005, Materials: EXT_IronExt, EXT_LampExt
+Renderer: Object_57 (1), Materials: Black_Plastic
+Renderer: Object_63, Materials: Caution_Sign
+Renderer: Object_76, Materials: Wheels
+Renderer: CHURCH_EVIDENCE_EVENINGPRAYERSHEET, Materials: DOC_prayer.001, OldPaper.002
+Renderer: LONDON_LAMP.015, Materials: Iron, Brass, LanternGlow
+Renderer: LONDON_STREET.001, Materials: Mortar.001, Setts_2.001, Setts_6.001, Setts_1.001, Setts_8.001, Setts_7.001, Setts_5.001, Setts_4.001, Setts_0.001, Setts_3.001, Puddle.001, DarkStone.004, WetKerb.001, Stone.006, Iron.004
+Renderer: Object_96 (1), Materials: Ceiling_Lights
+Renderer: ALLEY_EVIDENCE_FOOTPRINT.003, Materials: Mud.007, Mud.006
+Renderer: Object_115 (1), Materials: Body
+Renderer: Object_21, Materials: Cream
+Renderer: THEATER_EVIDENCE_ACTORCOSTUMESCRAP, Materials: BlueFabric, Gold.003
+Renderer: LONDON_CARRIAGE.004, Materials: Iron.011, CarriagePaint.001, WindowDark.005, WindowAmber0.003, Brass.015, Leather.001, Gilding.001, Timber.011, LanternGlow.005, HorseBrown.001, HorseBlack.001, Eye.001
+Renderer: Object_26, Materials: Button_Silver
+Renderer: Object_77, Materials: Button_Silver
+Renderer: Object_17, Materials: Faded_Glass
+Renderer: Object_128, Materials: Black_Plastic
+Renderer: CHURCH_LAMP, Materials: EXT_IronExt, EXT_LampExt
+Renderer: CHURCH_EVIDENC_DRYSHOEPRINT.007, Materials: DryPrint.013, DryPrint.014
+Renderer: LONDON_LAMP.004, Materials: Iron, Brass, LanternGlow
+Renderer: Object_78 (1), Materials: Silver_Gold
+Renderer: LONDON_LAMP.025, Materials: Iron.009, Brass.013, LanternGlow.003
+Renderer: Object_10 (1), Materials: Caution_Sign
+Renderer: Object_87 (1), Materials: Black_Plastic
+Renderer: LONDON_LAMP, Materials: Iron, Brass, LanternGlow
+Renderer: Object_93, Materials: Wall
+Renderer: CHURCH_EVIDENC_DRYSHOEPRINT.001, Materials: DryPrint.002, DryPrint.001
+Renderer: LONDON_LAMP.028, Materials: Iron.009, Brass.013, LanternGlow.003
+Renderer: LONDON_CARRIAGE.005, Materials: Iron.011, CarriagePaint.001, WindowDark.005, WindowAmber0.003, Brass.015, Leather.001, Gilding.001, Timber.011, LanternGlow.005, HorseBrown.001, HorseBlack.001, Eye.001
+Renderer: LONDON_TREE.014, Materials: Timber.010, FoliageC.003, FoliageA.003, FoliageB.003
+Renderer: Object_59 (1), Materials: Roof_Black
+Renderer: Object_107 (1), Materials: White
+Renderer: Object_130 (1), Materials: Cream_Clean
+Renderer: LONDON_LAMP.002, Materials: Iron, Brass, LanternGlow
+Renderer: Object_32 (1), Materials: Body
+Renderer: TRAIN_STATION_STARIRWELL.001, Materials: EXT_RedBrick.003
+Renderer: Object_139, Materials: Black_Plastic
+Renderer: Object_87, Materials: Black_Plastic
+Renderer: Object_98 (1), Materials: Cream_Clean
+Renderer: Object_47 (1), Materials: Roof_Black
+Renderer: Object_69, Materials: Roof_Black
+Renderer: Object_131 (1), Materials: Button_Silver
+Renderer: LONDON_CARRIAGE.001, Materials: Iron, CarriagePaint, WindowDark, WindowAmber0, Brass, Leather, Gilding, Timber, LanternGlow, HorseBrown, HorseBlack, Eye
+Renderer: Object_102 (1), Materials: Cream_Clean
+Renderer: ALLEY_EVIDENCE_THEATER_TICKET, Materials: DOC_theatre_ticket, OldPaper
+Renderer: CHURCH_EVIDENCE_RINGLARGE, Materials: Gold.002, Brass.003, Silver.001
+Renderer: Object_47, Materials: Roof_Black
+Renderer: LONDON_LAMP.007, Materials: Iron, Brass, LanternGlow
+Renderer: LONDON_LAMP.014, Materials: Iron, Brass, LanternGlow
+Renderer: Object_135, Materials: Black_Plastic
+Renderer: Object_23 (1), Materials: Orange
+Renderer: LONDON_LAMP.026, Materials: Iron.009, Brass.013, LanternGlow.003
+Renderer: Object_40 (1), Materials: Black_Plastic
+Renderer: Object_49 (1), Materials: Orange
+Renderer: LONDON_LAMP.011, Materials: Iron, Brass, LanternGlow
+Renderer: THEATER_EVIDENCE_PERFORMENCEINVITATION, Materials: DOC_invitation, OldPaper.003
+Renderer: ALLEY_EVIDENCE_COAT_BUTTON, Materials: Brass.001
+Renderer: LONDON_TOWNHOUSE.006, Materials: Brick3, Stone, DarkStone, WindowDark, Timber, WindowAmber1, WindowAmber2, Iron, WindowAmber0, WindowAmber3, DoorPaint, Brass, RoofLead, Slate, WindowDim, Brick2, Brick0, Brick1
+Renderer: LONDON_TOWNHOUSE.024, Materials: Iron.005, Stone.007, Brick0.003, DarkStone.006, WindowDark.003, Timber.006, WindowAmber2.001, WindowAmber3.001, WindowAmber1.001, WindowAmber0.001, DoorPaint.001, Brass.009, Slate.002, RoofLead.002, WindowDim.003, Brick2.002, Brick1.003
+Renderer: Object_55, Materials: Roof_Black
+Renderer: Object_119, Materials: Button_Silver
+Renderer: LONDON_LAMP.020, Materials: Iron, Brass, LanternGlow

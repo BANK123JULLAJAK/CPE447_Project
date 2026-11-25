@@ -1,0 +1,525 @@
+Shader: lilToon, PropertyCount: 524
+  [0] _DummyProperty (Float) : If you are seeing this, some script is broken.
+  [1] _DummyProperty (Float) : This also happens if something other than lilToon is broken.
+  [2] _DummyProperty (Float) : You need to check the error on the console and take appropriate action, such as reinstalling the relevant tool.
+  [3] _DummyProperty (Float) :  
+  [4] _DummyProperty (Float) : これが表示されている場合、なんらかのスクリプトが壊れています。
+  [5] _DummyProperty (Float) : これはlilToon以外のものが壊れている場合にも発生します。
+  [6] _DummyProperty (Float) : コンソールでエラーを確認し、該当するツールを入れ直すなどの対処を行う必要があります。
+  [7] _DummyProperty (Float) : 
+  [8] _Invisible (Float) : sInvisible
+  [9] _AsUnlit (Range) : sAsUnlit
+  [10] _Cutoff (Range) : sCutoff
+  [11] _SubpassCutoff (Range) : sSubpassCutoff
+  [12] _FlipNormal (Float) : sFlipBackfaceNormal
+  [13] _ShiftBackfaceUV (Float) : sShiftBackfaceUV
+  [14] _BackfaceForceShadow (Range) : sBackfaceForceShadow
+  [15] _BackfaceColor (Color) : sColor
+  [16] _VertexLightStrength (Range) : sVertexLightStrength
+  [17] _LightMinLimit (Range) : sLightMinLimit
+  [18] _LightMaxLimit (Range) : sLightMaxLimit
+  [19] _BeforeExposureLimit (Float) : sBeforeExposureLimit
+  [20] _MonochromeLighting (Range) : sMonochromeLighting
+  [21] _AlphaBoostFA (Range) : sAlphaBoostFA
+  [22] _lilDirectionalLightStrength (Range) : sDirectionalLightStrength
+  [23] _LightDirectionOverride (Vector) : sLightDirectionOverrides
+  [24] _AAStrength (Range) : sAAShading
+  [25] _UseDither (Float) : sDither
+  [26] _DitherTex (Texture) : Dither
+  [27] _DitherMaxValue (Float) : Max Value
+  [28] _EnvRimBorder (Range) : [VRCLV] Rim Border
+  [29] _EnvRimBlur (Range) : [VRCLV] Rim Blur
+  [30] _Color (Color) : sColor
+  [31] _MainTex (Texture) : Texture
+  [32] _MainTex_ScrollRotate (Vector) : sScrollRotates
+  [33] _MainTexHSVG (Vector) : sHSVGs
+  [34] _MainGradationStrength (Range) : Gradation Strength
+  [35] _MainGradationTex (Texture) : Gradation Map
+  [36] _MainColorAdjustMask (Texture) : Adjust Mask
+  [37] _UseMain2ndTex (Float) : sMainColor2nd
+  [38] _Color2nd (Color) : sColor
+  [39] _Main2ndTex (Texture) : Texture
+  [40] _Main2ndTexAngle (Float) : sAngle
+  [41] _Main2ndTex_ScrollRotate (Vector) : sScrollRotates
+  [42] _Main2ndTex_UVMode (Float) : UV Mode|UV0|UV1|UV2|UV3|MatCap
+  [43] _Main2ndTex_Cull (Float) : sCullModes
+  [44] _Main2ndTexDecalAnimation (Vector) : sDecalAnimations
+  [45] _Main2ndTexDecalSubParam (Vector) : sDecalSubParams
+  [46] _Main2ndTexIsDecal (Float) : sAsDecal
+  [47] _Main2ndTexIsLeftOnly (Float) : Left Only
+  [48] _Main2ndTexIsRightOnly (Float) : Right Only
+  [49] _Main2ndTexShouldCopy (Float) : Copy
+  [50] _Main2ndTexShouldFlipMirror (Float) : Flip Mirror
+  [51] _Main2ndTexShouldFlipCopy (Float) : Flip Copy
+  [52] _Main2ndTexIsMSDF (Float) : sAsMSDF
+  [53] _Main2ndBlendMask (Texture) : Mask
+  [54] _Main2ndTexBlendMode (Float) : sBlendModes
+  [55] _Main2ndTexAlphaMode (Float) : sAlphaModes
+  [56] _Main2ndEnableLighting (Range) : sEnableLighting
+  [57] _Main2ndDissolveMask (Texture) : Dissolve Mask
+  [58] _Main2ndDissolveNoiseMask (Texture) : Dissolve Noise Mask
+  [59] _Main2ndDissolveNoiseMask_ScrollRotate (Vector) : Scroll
+  [60] _Main2ndDissolveNoiseStrength (Float) : Dissolve Noise Strength
+  [61] _Main2ndDissolveColor (Color) : sColor
+  [62] _Main2ndDissolveParams (Vector) : sDissolveParams
+  [63] _Main2ndDissolvePos (Vector) : Dissolve Position
+  [64] _Main2ndDistanceFade (Vector) : sDistanceFadeSettings
+  [65] _UseMain3rdTex (Float) : sMainColor3rd
+  [66] _Color3rd (Color) : sColor
+  [67] _Main3rdTex (Texture) : Texture
+  [68] _Main3rdTexAngle (Float) : sAngle
+  [69] _Main3rdTex_ScrollRotate (Vector) : sScrollRotates
+  [70] _Main3rdTex_UVMode (Float) : UV Mode|UV0|UV1|UV2|UV3|MatCap
+  [71] _Main3rdTex_Cull (Float) : sCullModes
+  [72] _Main3rdTexDecalAnimation (Vector) : sDecalAnimations
+  [73] _Main3rdTexDecalSubParam (Vector) : sDecalSubParams
+  [74] _Main3rdTexIsDecal (Float) : sAsDecal
+  [75] _Main3rdTexIsLeftOnly (Float) : Left Only
+  [76] _Main3rdTexIsRightOnly (Float) : Right Only
+  [77] _Main3rdTexShouldCopy (Float) : Copy
+  [78] _Main3rdTexShouldFlipMirror (Float) : Flip Mirror
+  [79] _Main3rdTexShouldFlipCopy (Float) : Flip Copy
+  [80] _Main3rdTexIsMSDF (Float) : sAsMSDF
+  [81] _Main3rdBlendMask (Texture) : Mask
+  [82] _Main3rdTexBlendMode (Float) : sBlendModes
+  [83] _Main3rdTexAlphaMode (Float) : sAlphaModes
+  [84] _Main3rdEnableLighting (Range) : sEnableLighting
+  [85] _Main3rdDissolveMask (Texture) : Dissolve Mask
+  [86] _Main3rdDissolveNoiseMask (Texture) : Dissolve Noise Mask
+  [87] _Main3rdDissolveNoiseMask_ScrollRotate (Vector) : Scroll
+  [88] _Main3rdDissolveNoiseStrength (Float) : Dissolve Noise Strength
+  [89] _Main3rdDissolveColor (Color) : sColor
+  [90] _Main3rdDissolveParams (Vector) : sDissolveParams
+  [91] _Main3rdDissolvePos (Vector) : Dissolve Position
+  [92] _Main3rdDistanceFade (Vector) : sDistanceFadeSettings
+  [93] _AlphaMaskMode (Float) : sAlphaMaskModes
+  [94] _AlphaMask (Texture) : AlphaMask
+  [95] _AlphaMaskScale (Float) : Scale
+  [96] _AlphaMaskValue (Float) : Offset
+  [97] _UseBumpMap (Float) : sNormalMap
+  [98] _BumpMap (Texture) : Normal Map
+  [99] _BumpScale (Range) : Scale
+  [100] _UseBump2ndMap (Float) : sNormalMap2nd
+  [101] _Bump2ndMap (Texture) : Normal Map
+  [102] _Bump2ndMap_UVMode (Float) : UV Mode|UV0|UV1|UV2|UV3
+  [103] _Bump2ndScale (Range) : Scale
+  [104] _Bump2ndScaleMask (Texture) : Mask
+  [105] _UseAnisotropy (Float) : sAnisotropy
+  [106] _AnisotropyTangentMap (Texture) : Tangent Map
+  [107] _AnisotropyScale (Range) : Scale
+  [108] _AnisotropyScaleMask (Texture) : Scale Mask
+  [109] _AnisotropyTangentWidth (Range) : sTangentWidth
+  [110] _AnisotropyBitangentWidth (Range) : sBitangentWidth
+  [111] _AnisotropyShift (Range) : sOffset
+  [112] _AnisotropyShiftNoiseScale (Range) : sNoiseStrength
+  [113] _AnisotropySpecularStrength (Range) : sStrength
+  [114] _Anisotropy2ndTangentWidth (Range) : sTangentWidth
+  [115] _Anisotropy2ndBitangentWidth (Range) : sBitangentWidth
+  [116] _Anisotropy2ndShift (Range) : sOffset
+  [117] _Anisotropy2ndShiftNoiseScale (Range) : sNoiseStrength
+  [118] _Anisotropy2ndSpecularStrength (Range) : sStrength
+  [119] _AnisotropyShiftNoiseMask (Texture) : sNoise
+  [120] _Anisotropy2Reflection (Float) : sReflection
+  [121] _Anisotropy2MatCap (Float) : sMatCap
+  [122] _Anisotropy2MatCap2nd (Float) : sMatCap2nd
+  [123] _UseBacklight (Float) : sBacklight
+  [124] _BacklightColor (Color) : sColor
+  [125] _BacklightColorTex (Texture) : Texture
+  [126] _BacklightMainStrength (Range) : sMainColorPower
+  [127] _BacklightNormalStrength (Range) : sNormalStrength
+  [128] _BacklightBorder (Range) : Border
+  [129] _BacklightBlur (Range) : sBlur
+  [130] _BacklightDirectivity (Float) : sDirectivity
+  [131] _BacklightViewStrength (Range) : sViewDirectionStrength
+  [132] _BacklightReceiveShadow (Float) : sReceiveShadow
+  [133] _BacklightBackfaceMask (Float) : sBackfaceMask
+  [134] _UseShadow (Float) : sShadow
+  [135] _ShadowStrength (Range) : sStrength
+  [136] _ShadowStrengthMask (Texture) : sStrength
+  [137] _ShadowStrengthMaskLOD (Range) : LOD
+  [138] _ShadowBorderMask (Texture) : sBorder
+  [139] _ShadowBorderMaskLOD (Range) : LOD
+  [140] _ShadowBlurMask (Texture) : sBlur
+  [141] _ShadowBlurMaskLOD (Range) : LOD
+  [142] _ShadowAOShift (Vector) : 1st Scale|1st Offset|2nd Scale|2nd Offset
+  [143] _ShadowAOShift2 (Vector) : 3rd Scale|3rd Offset
+  [144] _ShadowPostAO (Float) : sIgnoreBorderProperties
+  [145] _ShadowColorType (Float) : sShadowColorTypes
+  [146] _ShadowColor (Color) : Shadow Color
+  [147] _ShadowColorTex (Texture) : Shadow Color
+  [148] _ShadowNormalStrength (Range) : sNormalStrength
+  [149] _ShadowBorder (Range) : sBorder
+  [150] _ShadowBlur (Range) : sBlur
+  [151] _ShadowReceive (Range) : sReceiveShadow
+  [152] _Shadow2ndColor (Color) : 2nd Color
+  [153] _Shadow2ndColorTex (Texture) : 2nd Color
+  [154] _Shadow2ndNormalStrength (Range) : sNormalStrength
+  [155] _Shadow2ndBorder (Range) : sBorder
+  [156] _Shadow2ndBlur (Range) : sBlur
+  [157] _Shadow2ndReceive (Range) : sReceiveShadow
+  [158] _Shadow3rdColor (Color) : 3rd Color
+  [159] _Shadow3rdColorTex (Texture) : 3rd Color
+  [160] _Shadow3rdNormalStrength (Range) : sNormalStrength
+  [161] _Shadow3rdBorder (Range) : sBorder
+  [162] _Shadow3rdBlur (Range) : sBlur
+  [163] _Shadow3rdReceive (Range) : sReceiveShadow
+  [164] _ShadowBorderColor (Color) : sShadowBorderColor
+  [165] _ShadowBorderRange (Range) : sShadowBorderRange
+  [166] _ShadowMainStrength (Range) : sContrast
+  [167] _ShadowEnvStrength (Range) : sShadowEnvStrength
+  [168] _ShadowMaskType (Float) : sShadowMaskTypes
+  [169] _ShadowFlatBorder (Range) : sBorder
+  [170] _ShadowFlatBlur (Range) : sBlur
+  [171] _UseRimShade (Float) : RimShade
+  [172] _RimShadeColor (Color) : sColor
+  [173] _RimShadeMask (Texture) : Mask
+  [174] _RimShadeNormalStrength (Range) : sNormalStrength
+  [175] _RimShadeBorder (Range) : sBorder
+  [176] _RimShadeBlur (Range) : sBlur
+  [177] _RimShadeFresnelPower (Range) : sFresnelPower
+  [178] _UseReflection (Float) : sReflection
+  [179] _Smoothness (Range) : Smoothness
+  [180] _SmoothnessTex (Texture) : Smoothness
+  [181] _Metallic (Range) : Metallic
+  [182] _MetallicGlossMap (Texture) : Metallic
+  [183] _Reflectance (Range) : sReflectance
+  [184] _GSAAStrength (Range) : GSAA
+  [185] _ApplySpecular (Float) : Apply Specular
+  [186] _ApplySpecularFA (Float) : sMultiLightSpecular
+  [187] _SpecularToon (Float) : Specular Toon
+  [188] _SpecularNormalStrength (Range) : sNormalStrength
+  [189] _SpecularBorder (Range) : sBorder
+  [190] _SpecularBlur (Range) : sBlur
+  [191] _ApplyReflection (Float) : sApplyReflection
+  [192] _ReflectionNormalStrength (Range) : sNormalStrength
+  [193] _ReflectionColor (Color) : sColor
+  [194] _ReflectionColorTex (Texture) : sColor
+  [195] _ReflectionApplyTransparency (Float) : sApplyTransparency
+  [196] _ReflectionCubeTex (Texture) : Cubemap Fallback
+  [197] _ReflectionCubeColor (Color) : sColor
+  [198] _ReflectionCubeOverride (Float) : Override
+  [199] _ReflectionCubeEnableLighting (Range) : sEnableLighting+ (Fallback)
+  [200] _ReflectionBlendMode (Float) : sBlendModes
+  [201] _UseMatCap (Float) : sMatCap
+  [202] _MatCapColor (Color) : sColor
+  [203] _MatCapTex (Texture) : Texture
+  [204] _MatCapMainStrength (Range) : sMainColorPower
+  [205] _MatCapBlendUV1 (Vector) : sBlendUV1
+  [206] _MatCapZRotCancel (Float) : sMatCapZRotCancel
+  [207] _MatCapPerspective (Float) : sFixPerspective
+  [208] _MatCapVRParallaxStrength (Range) : sVRParallaxStrength
+  [209] _MatCapBlend (Range) : Blend
+  [210] _MatCapBlendMask (Texture) : Mask
+  [211] _MatCapEnableLighting (Range) : sEnableLighting
+  [212] _MatCapShadowMask (Range) : sShadowMask
+  [213] _MatCapBackfaceMask (Float) : sBackfaceMask
+  [214] _MatCapLod (Range) : sBlur
+  [215] _MatCapBlendMode (Float) : sBlendModes
+  [216] _MatCapApplyTransparency (Float) : sApplyTransparency
+  [217] _MatCapNormalStrength (Range) : sNormalStrength
+  [218] _MatCapCustomNormal (Float) : sMatCapCustomNormal
+  [219] _MatCapBumpMap (Texture) : Normal Map
+  [220] _MatCapBumpScale (Range) : Scale
+  [221] _UseMatCap2nd (Float) : sMatCap2nd
+  [222] _MatCap2ndColor (Color) : sColor
+  [223] _MatCap2ndTex (Texture) : Texture
+  [224] _MatCap2ndMainStrength (Range) : sMainColorPower
+  [225] _MatCap2ndBlendUV1 (Vector) : sBlendUV1
+  [226] _MatCap2ndZRotCancel (Float) : sMatCapZRotCancel
+  [227] _MatCap2ndPerspective (Float) : sFixPerspective
+  [228] _MatCap2ndVRParallaxStrength (Range) : sVRParallaxStrength
+  [229] _MatCap2ndBlend (Range) : Blend
+  [230] _MatCap2ndBlendMask (Texture) : Mask
+  [231] _MatCap2ndEnableLighting (Range) : sEnableLighting
+  [232] _MatCap2ndShadowMask (Range) : sShadowMask
+  [233] _MatCap2ndBackfaceMask (Float) : sBackfaceMask
+  [234] _MatCap2ndLod (Range) : sBlur
+  [235] _MatCap2ndBlendMode (Float) : sBlendModes
+  [236] _MatCap2ndApplyTransparency (Float) : sApplyTransparency
+  [237] _MatCap2ndNormalStrength (Range) : sNormalStrength
+  [238] _MatCap2ndCustomNormal (Float) : sMatCapCustomNormal
+  [239] _MatCap2ndBumpMap (Texture) : Normal Map
+  [240] _MatCap2ndBumpScale (Range) : Scale
+  [241] _UseRim (Float) : sRimLight
+  [242] _RimColor (Color) : sColor
+  [243] _RimColorTex (Texture) : Texture
+  [244] _RimMainStrength (Range) : sMainColorPower
+  [245] _RimNormalStrength (Range) : sNormalStrength
+  [246] _RimBorder (Range) : sBorder
+  [247] _RimBlur (Range) : sBlur
+  [248] _RimFresnelPower (Range) : sFresnelPower
+  [249] _RimEnableLighting (Range) : sEnableLighting
+  [250] _RimShadowMask (Range) : sShadowMask
+  [251] _RimBackfaceMask (Float) : sBackfaceMask
+  [252] _RimVRParallaxStrength (Range) : sVRParallaxStrength
+  [253] _RimApplyTransparency (Float) : sApplyTransparency
+  [254] _RimDirStrength (Range) : sRimLightDirection
+  [255] _RimDirRange (Range) : sRimDirectionRange
+  [256] _RimIndirRange (Range) : sRimIndirectionRange
+  [257] _RimIndirColor (Color) : sColor
+  [258] _RimIndirBorder (Range) : sBorder
+  [259] _RimIndirBlur (Range) : sBlur
+  [260] _RimBlendMode (Float) : sBlendModes
+  [261] _UseGlitter (Float) : sGlitter
+  [262] _GlitterUVMode (Float) : UV Mode|UV0|UV1
+  [263] _GlitterColor (Color) : sColor
+  [264] _GlitterColorTex (Texture) : Texture
+  [265] _GlitterColorTex_UVMode (Float) : UV Mode|UV0|UV1|UV2|UV3
+  [266] _GlitterMainStrength (Range) : sMainColorPower
+  [267] _GlitterNormalStrength (Range) : sNormalStrength
+  [268] _GlitterScaleRandomize (Range) : sRandomize+ (Size)
+  [269] _GlitterApplyShape (Float) : Shape
+  [270] _GlitterShapeTex (Texture) : Texture
+  [271] _GlitterAtras (Vector) : Atras
+  [272] _GlitterAngleRandomize (Float) : sRandomize+ (+sAngle+)
+  [273] _GlitterParams1 (Vector) : Tiling|Particle Size|Contrast
+  [274] _GlitterParams2 (Vector) : sGlitterParams2
+  [275] _GlitterPostContrast (Float) : sPostContrast
+  [276] _GlitterSensitivity (Float) : Sensitivity
+  [277] _GlitterEnableLighting (Range) : sEnableLighting
+  [278] _GlitterShadowMask (Range) : sShadowMask
+  [279] _GlitterBackfaceMask (Float) : sBackfaceMask
+  [280] _GlitterApplyTransparency (Float) : sApplyTransparency
+  [281] _GlitterVRParallaxStrength (Range) : sVRParallaxStrength
+  [282] _UseEmission (Float) : sEmission
+  [283] _EmissionColor (Color) : sColor
+  [284] _EmissionMap (Texture) : Texture
+  [285] _EmissionMap_ScrollRotate (Vector) : sScrollRotates
+  [286] _EmissionMap_UVMode (Float) : UV Mode|UV0|UV1|UV2|UV3|Rim
+  [287] _EmissionMainStrength (Range) : sMainColorPower
+  [288] _EmissionBlend (Range) : Blend
+  [289] _EmissionBlendMask (Texture) : Mask
+  [290] _EmissionBlendMask_ScrollRotate (Vector) : sScrollRotates
+  [291] _EmissionBlendMode (Float) : sBlendModes
+  [292] _EmissionBlink (Vector) : sBlinkSettings
+  [293] _EmissionUseGrad (Float) : sGradation
+  [294] _EmissionGradTex (Texture) : Gradation Texture
+  [295] _EmissionGradSpeed (Float) : Gradation Speed
+  [296] _EmissionParallaxDepth (Float) : sParallaxDepth
+  [297] _EmissionFluorescence (Range) : sFluorescence
+  [298] _egci (Float) : 
+  [299] _egai (Float) : 
+  [300] _egc0 (Color) : 
+  [301] _egc1 (Color) : 
+  [302] _egc2 (Color) : 
+  [303] _egc3 (Color) : 
+  [304] _egc4 (Color) : 
+  [305] _egc5 (Color) : 
+  [306] _egc6 (Color) : 
+  [307] _egc7 (Color) : 
+  [308] _ega0 (Color) : 
+  [309] _ega1 (Color) : 
+  [310] _ega2 (Color) : 
+  [311] _ega3 (Color) : 
+  [312] _ega4 (Color) : 
+  [313] _ega5 (Color) : 
+  [314] _ega6 (Color) : 
+  [315] _ega7 (Color) : 
+  [316] _UseEmission2nd (Float) : sEmission2nd
+  [317] _Emission2ndColor (Color) : sColor
+  [318] _Emission2ndMap (Texture) : Texture
+  [319] _Emission2ndMap_ScrollRotate (Vector) : sScrollRotates
+  [320] _Emission2ndMap_UVMode (Float) : UV Mode|UV0|UV1|UV2|UV3|Rim
+  [321] _Emission2ndMainStrength (Range) : sMainColorPower
+  [322] _Emission2ndBlend (Range) : Blend
+  [323] _Emission2ndBlendMask (Texture) : Mask
+  [324] _Emission2ndBlendMask_ScrollRotate (Vector) : sScrollRotates
+  [325] _Emission2ndBlendMode (Float) : sBlendModes
+  [326] _Emission2ndBlink (Vector) : sBlinkSettings
+  [327] _Emission2ndUseGrad (Float) : sGradation
+  [328] _Emission2ndGradTex (Texture) : Gradation Texture
+  [329] _Emission2ndGradSpeed (Float) : Gradation Speed
+  [330] _Emission2ndParallaxDepth (Float) : sParallaxDepth
+  [331] _Emission2ndFluorescence (Range) : sFluorescence
+  [332] _e2gci (Float) : 
+  [333] _e2gai (Float) : 
+  [334] _e2gc0 (Color) : 
+  [335] _e2gc1 (Color) : 
+  [336] _e2gc2 (Color) : 
+  [337] _e2gc3 (Color) : 
+  [338] _e2gc4 (Color) : 
+  [339] _e2gc5 (Color) : 
+  [340] _e2gc6 (Color) : 
+  [341] _e2gc7 (Color) : 
+  [342] _e2ga0 (Color) : 
+  [343] _e2ga1 (Color) : 
+  [344] _e2ga2 (Color) : 
+  [345] _e2ga3 (Color) : 
+  [346] _e2ga4 (Color) : 
+  [347] _e2ga5 (Color) : 
+  [348] _e2ga6 (Color) : 
+  [349] _e2ga7 (Color) : 
+  [350] _UseParallax (Float) : sParallax
+  [351] _UsePOM (Float) : sPOM
+  [352] _ParallaxMap (Texture) : Parallax Map
+  [353] _Parallax (Float) : Parallax Scale
+  [354] _ParallaxOffset (Float) : sParallaxOffset
+  [355] _DistanceFadeColor (Color) : sColor
+  [356] _DistanceFade (Vector) : sDistanceFadeSettings
+  [357] _DistanceFadeMode (Float) : sDistanceFadeModes
+  [358] _DistanceFadeRimColor (Color) : sColor
+  [359] _DistanceFadeRimFresnelPower (Range) : sFresnelPower
+  [360] _UseAudioLink (Float) : sAudioLink
+  [361] _AudioLinkDefaultValue (Vector) : Strength|Blink Strength|Blink Speed|Blink Threshold
+  [362] _AudioLinkUVMode (Float) : sAudioLinkUVModes
+  [363] _AudioLinkUVParams (Vector) : Scale|Offset|sAngle|Band|Bass|Low Mid|High Mid|Treble
+  [364] _AudioLinkStart (Vector) : sAudioLinkStartPosition
+  [365] _AudioLinkMask (Texture) : Mask
+  [366] _AudioLinkMask_ScrollRotate (Vector) : sScrollRotates
+  [367] _AudioLinkMask_UVMode (Float) : UV Mode|UV0|UV1|UV2|UV3
+  [368] _AudioLink2Main2nd (Float) : sMainColor2nd
+  [369] _AudioLink2Main3rd (Float) : sMainColor3rd
+  [370] _AudioLink2Emission (Float) : sEmission
+  [371] _AudioLink2EmissionGrad (Float) : sEmission+sGradation
+  [372] _AudioLink2Emission2nd (Float) : sEmission2nd
+  [373] _AudioLink2Emission2ndGrad (Float) : sEmission2nd+sGradation
+  [374] _AudioLink2Vertex (Float) : sVertex
+  [375] _AudioLinkVertexUVMode (Float) : sAudioLinkVertexUVModes
+  [376] _AudioLinkVertexUVParams (Vector) : Scale|Offset|sAngle|Band|Bass|Low Mid|High Mid|Treble
+  [377] _AudioLinkVertexStart (Vector) : sAudioLinkStartPosition
+  [378] _AudioLinkVertexStrength (Vector) : sAudioLinkVertexStrengths
+  [379] _AudioLinkAsLocal (Float) : sAudioLinkAsLocal
+  [380] _AudioLinkLocalMap (Texture) : Local Map
+  [381] _AudioLinkLocalMapParams (Vector) : sAudioLinkLocalMapParams
+  [382] _DissolveMask (Texture) : Dissolve Mask
+  [383] _DissolveNoiseMask (Texture) : Dissolve Noise Mask
+  [384] _DissolveNoiseMask_ScrollRotate (Vector) : Scroll
+  [385] _DissolveNoiseStrength (Float) : Dissolve Noise Strength
+  [386] _DissolveColor (Color) : sColor
+  [387] _DissolveParams (Vector) : sDissolveParamsModes
+  [388] _DissolvePos (Vector) : Dissolve Position
+  [389] _IDMaskCompile (Float) : _IDMaskCompile
+  [390] _IDMaskFrom (Float) : _IDMaskFrom|0: UV0|1: UV1|2: UV2|3: UV3|4: UV4|5: UV5|6: UV6|7: UV7|8: VertexID
+  [391] _IDMask1 (Float) : _IDMask1
+  [392] _IDMask2 (Float) : _IDMask2
+  [393] _IDMask3 (Float) : _IDMask3
+  [394] _IDMask4 (Float) : _IDMask4
+  [395] _IDMask5 (Float) : _IDMask5
+  [396] _IDMask6 (Float) : _IDMask6
+  [397] _IDMask7 (Float) : _IDMask7
+  [398] _IDMask8 (Float) : _IDMask8
+  [399] _IDMaskIsBitmap (Float) : _IDMaskIsBitmap
+  [400] _IDMaskIndex1 (Float) : _IDMaskIndex1
+  [401] _IDMaskIndex2 (Float) : _IDMaskIndex2
+  [402] _IDMaskIndex3 (Float) : _IDMaskIndex3
+  [403] _IDMaskIndex4 (Float) : _IDMaskIndex4
+  [404] _IDMaskIndex5 (Float) : _IDMaskIndex5
+  [405] _IDMaskIndex6 (Float) : _IDMaskIndex6
+  [406] _IDMaskIndex7 (Float) : _IDMaskIndex7
+  [407] _IDMaskIndex8 (Float) : _IDMaskIndex8
+  [408] _IDMaskControlsDissolve (Float) : _IDMaskControlsDissolve
+  [409] _IDMaskPrior1 (Float) : _IDMaskPrior1
+  [410] _IDMaskPrior2 (Float) : _IDMaskPrior2
+  [411] _IDMaskPrior3 (Float) : _IDMaskPrior3
+  [412] _IDMaskPrior4 (Float) : _IDMaskPrior4
+  [413] _IDMaskPrior5 (Float) : _IDMaskPrior5
+  [414] _IDMaskPrior6 (Float) : _IDMaskPrior6
+  [415] _IDMaskPrior7 (Float) : _IDMaskPrior7
+  [416] _IDMaskPrior8 (Float) : _IDMaskPrior8
+  [417] _UDIMDiscardCompile (Float) : sUDIMDiscard
+  [418] _UDIMDiscardUV (Float) : sUDIMDiscardUV|0: UV0|1: UV1|2: UV2|3: UV3
+  [419] _UDIMDiscardMode (Float) : sUDIMDiscardMode|0: Vertex|1: Pixel (slower)
+  [420] _UDIMDiscardRow3_3 (Float) : 
+  [421] _UDIMDiscardRow3_2 (Float) : 
+  [422] _UDIMDiscardRow3_1 (Float) : 
+  [423] _UDIMDiscardRow3_0 (Float) : 
+  [424] _UDIMDiscardRow2_3 (Float) : 
+  [425] _UDIMDiscardRow2_2 (Float) : 
+  [426] _UDIMDiscardRow2_1 (Float) : 
+  [427] _UDIMDiscardRow2_0 (Float) : 
+  [428] _UDIMDiscardRow1_3 (Float) : 
+  [429] _UDIMDiscardRow1_2 (Float) : 
+  [430] _UDIMDiscardRow1_1 (Float) : 
+  [431] _UDIMDiscardRow1_0 (Float) : 
+  [432] _UDIMDiscardRow0_3 (Float) : 
+  [433] _UDIMDiscardRow0_2 (Float) : 
+  [434] _UDIMDiscardRow0_1 (Float) : 
+  [435] _UDIMDiscardRow0_0 (Float) : 
+  [436] _OutlineColor (Color) : sColor
+  [437] _OutlineTex (Texture) : Texture
+  [438] _OutlineTex_ScrollRotate (Vector) : sScrollRotates
+  [439] _OutlineTexHSVG (Vector) : sHSVGs
+  [440] _OutlineLitColor (Color) : sColor
+  [441] _OutlineLitApplyTex (Float) : sColorFromMain
+  [442] _OutlineLitScale (Float) : Scale
+  [443] _OutlineLitOffset (Float) : Offset
+  [444] _OutlineLitShadowReceive (Float) : sReceiveShadow
+  [445] _OutlineWidth (Range) : Width
+  [446] _OutlineWidthMask (Texture) : Width
+  [447] _OutlineFixWidth (Range) : sFixWidth
+  [448] _OutlineVertexR2Width (Float) : sOutlineVertexColorUsages
+  [449] _OutlineDeleteMesh (Float) : sDeleteMesh0
+  [450] _OutlineVectorTex (Texture) : Vector
+  [451] _OutlineVectorUVMode (Float) : UV Mode|UV0|UV1|UV2|UV3
+  [452] _OutlineVectorScale (Range) : Vector scale
+  [453] _OutlineEnableLighting (Range) : sEnableLighting
+  [454] _OutlineZBias (Float) : Z Bias
+  [455] _OutlineDisableInVR (Float) : sDisableInVR
+  [456] _TessEdge (Range) : sTessellationEdge
+  [457] _TessStrength (Range) : sStrength
+  [458] _TessShrink (Range) : sTessellationShrink
+  [459] _TessFactorMax (Range) : sTessellationFactor
+  [460] _UseOutline (Float) : Use Outline
+  [461] _TransparentMode (Float) : Rendering Mode|Opaque|Cutout|Transparent|Refraction|Fur|FurCutout|Gem
+  [462] _UseClippingCanceller (Float) : sSettingClippingCanceller
+  [463] _AsOverlay (Float) : sAsOverlay
+  [464] _BaseColor (Color) : sColor
+  [465] _BaseMap (Texture) : Texture
+  [466] _BaseColorMap (Texture) : Texture
+  [467] _lilToonVersion (Float) : Version
+  [468] _Ramp (Texture) : Shadow Ramp
+  [469] _Cull (Float) : sCullModes
+  [470] _SrcBlend (Float) : sSrcBlendRGB
+  [471] _DstBlend (Float) : sDstBlendRGB
+  [472] _SrcBlendAlpha (Float) : sSrcBlendAlpha
+  [473] _DstBlendAlpha (Float) : sDstBlendAlpha
+  [474] _BlendOp (Float) : sBlendOpRGB
+  [475] _BlendOpAlpha (Float) : sBlendOpAlpha
+  [476] _SrcBlendFA (Float) : sSrcBlendRGB
+  [477] _DstBlendFA (Float) : sDstBlendRGB
+  [478] _SrcBlendAlphaFA (Float) : sSrcBlendAlpha
+  [479] _DstBlendAlphaFA (Float) : sDstBlendAlpha
+  [480] _BlendOpFA (Float) : sBlendOpRGB
+  [481] _BlendOpAlphaFA (Float) : sBlendOpAlpha
+  [482] _ZClip (Float) : sZClip
+  [483] _ZWrite (Float) : sZWrite
+  [484] _ZTest (Float) : sZTest
+  [485] _StencilRef (Range) : Ref
+  [486] _StencilReadMask (Range) : ReadMask
+  [487] _StencilWriteMask (Range) : WriteMask
+  [488] _StencilComp (Float) : Comp
+  [489] _StencilPass (Float) : Pass
+  [490] _StencilFail (Float) : Fail
+  [491] _StencilZFail (Float) : ZFail
+  [492] _OffsetFactor (Float) : sOffsetFactor
+  [493] _OffsetUnits (Float) : sOffsetUnits
+  [494] _ColorMask (Float) : sColorMask
+  [495] _AlphaToMask (Float) : sAlphaToMask
+  [496] _lilShadowCasterBias (Float) : Shadow Caster Bias
+  [497] _OutlineCull (Float) : sCullModes
+  [498] _OutlineSrcBlend (Float) : sSrcBlendRGB
+  [499] _OutlineDstBlend (Float) : sDstBlendRGB
+  [500] _OutlineSrcBlendAlpha (Float) : sSrcBlendAlpha
+  [501] _OutlineDstBlendAlpha (Float) : sDstBlendAlpha
+  [502] _OutlineBlendOp (Float) : sBlendOpRGB
+  [503] _OutlineBlendOpAlpha (Float) : sBlendOpAlpha
+  [504] _OutlineSrcBlendFA (Float) : sSrcBlendRGB
+  [505] _OutlineDstBlendFA (Float) : sDstBlendRGB
+  [506] _OutlineSrcBlendAlphaFA (Float) : sSrcBlendAlpha
+  [507] _OutlineDstBlendAlphaFA (Float) : sDstBlendAlpha
+  [508] _OutlineBlendOpFA (Float) : sBlendOpRGB
+  [509] _OutlineBlendOpAlphaFA (Float) : sBlendOpAlpha
+  [510] _OutlineZClip (Float) : sZClip
+  [511] _OutlineZWrite (Float) : sZWrite
+  [512] _OutlineZTest (Float) : sZTest
+  [513] _OutlineStencilRef (Range) : Ref
+  [514] _OutlineStencilReadMask (Range) : ReadMask
+  [515] _OutlineStencilWriteMask (Range) : WriteMask
+  [516] _OutlineStencilComp (Float) : Comp
+  [517] _OutlineStencilPass (Float) : Pass
+  [518] _OutlineStencilFail (Float) : Fail
+  [519] _OutlineStencilZFail (Float) : ZFail
+  [520] _OutlineOffsetFactor (Float) : sOffsetFactor
+  [521] _OutlineOffsetUnits (Float) : sOffsetUnits
+  [522] _OutlineColorMask (Float) : sColorMask
+  [523] _OutlineAlphaToMask (Float) : sAlphaToMask

@@ -1,0 +1,47 @@
+=== PlayerFollowCamera ===
+Transform pos=(11.25, 3.59, 27.81), rot=(0.00, 0.00, 0.00)
+=== CinemachineThirdPersonFollow Fields & Properties ===
+  Field Damping (Vector3) = (0.05, 0.08, 0.08)
+  Field ShoulderOffset (Vector3) = (0.60, -0.37, 0.00)
+  Field VerticalArmLength (Single) = 0
+  Field CameraSide (Single) = 1
+  Field CameraDistance (Single) = 0.99
+  Field AvoidObstacles (ObstacleSettings) = Unity.Cinemachine.CinemachineThirdPersonFollow+ObstacleSettings
+  Prop CurrentObstacle (Collider) = 
+  Prop IsValid (Boolean) = True
+  Prop Stage (Stage) = Body
+  Prop VirtualCamera (CinemachineVirtualCameraBase) = PlayerFollowCamera (Unity.Cinemachine.CinemachineCamera)
+  Prop FollowTarget (Transform) = PlayerCameraRoot (UnityEngine.Transform)
+  Prop LookAtTarget (Transform) = PlayerCameraRoot (UnityEngine.Transform)
+  Prop FollowTargetAsGroup (ICinemachineTargetGroup) = 
+  Prop FollowTargetPosition (Vector3) = (11.09, 3.46, 30.81)
+  Prop FollowTargetRotation (Quaternion) = (-0.14263, 0.00000, 0.00000, 0.98978)
+  Prop LookAtTargetAsGroup (ICinemachineTargetGroup) = 
+  Prop LookAtTargetPosition (Vector3) = (11.09, 3.46, 30.81)
+  Prop LookAtTargetRotation (Quaternion) = (-0.14263, 0.00000, 0.00000, 0.98978)
+  Prop VcamState (CameraState) = Unity.Cinemachine.CameraState
+  Prop BodyAppliesAfterAim (Boolean) = False
+  Prop destroyCancellationToken (CancellationToken) = System.Threading.CancellationToken
+  Prop useGUILayout (Boolean) = True
+  Prop didStart (Boolean) = False
+  Prop didAwake (Boolean) = True
+  Prop runInEditMode (Boolean) = True
+  Prop enabled (Boolean) = True
+  Prop isActiveAndEnabled (Boolean) = True
+  Prop transform (Transform) = PlayerFollowCamera (UnityEngine.Transform)
+  Prop transformHandle (TransformHandle) = UnityEngine.TransformHandle
+  Prop gameObject (GameObject) = PlayerFollowCamera (UnityEngine.GameObject)
+  Prop tag (String) = Untagged
+  Prop name (String) = PlayerFollowCamera
+  Prop hideFlags (HideFlags) = None
+=== ThirdPersonController ===
+GameObject: PlayerArmature, scale=(1.30, 1.30, 1.30)
+CinemachineCameraTarget: PlayerCameraRoot
+  Target localPos: (0.00, 2.38, 0.00)
+  Target worldPos: (11.09, 3.46, 30.81)
+  Target localRot: (343.60, 0.00, 0.00)
+  Head bone pos: (11.09, 2.51, 30.78), localPos: (0.00, 0.10, 0.01)
+TopClamp: 70
+BottomClamp: -30
+CameraAngleOverride: -16.4
+LockCameraPosition: False
